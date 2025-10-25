@@ -14,6 +14,56 @@ By Session (print quick-ref):
 
 ---
 
+## [S03] Boarding in the Fog (Approach)
+- Where: River Stir moorings
+- Tone: Lantern-lit, breathy chants, raven silhouettes
+
+### Setup
+The bone-barge emerges from fog. Eléonore invites “witnesses” aboard if greeted with ritual courtesy (bow, touch of mirror).
+
+### Play
+- Social: Correct rites grant safe audience; missteps trigger attendants to close ranks.
+- Skill: Pilot a skiff alongside; Stealth to eavesdrop on chanting before boarding.
+
+### Outcomes
+- Earn audience in the Deck Chapel; or start at disadvantage in the doctrine debate.
+
+---
+
+## [S03] Reliquary Extraction (Heist)
+- Where: Extraction Lab aboard the barge
+- Tone: Copper hum, bone racks, vials labeled with lots
+
+### Play
+- Mechanics/Trade to loosen the reliquary core; Sleight to avoid clinking glass; Perception to spot “Lot Ysabeau.”
+
+### Reward
+- Reliquary Core (token to downgrade an anchor later) or a Lot Ysabeau vial (one-sentence revival; 1 Corruption risk).
+
+---
+
+## [S03] Raven Sermon (Social Combat)
+- Where: Deck Chapel under the mirrored censer
+- Tone: Hypnotic rhyme; smoke describes sigils
+
+### Play
+- Three-exchange debate: Theology/Social rolls; sanctify the censer first to remove Eléonore’s doctrine edge.
+
+### Outcome
+- PCs win: Eléonore bargains; Mixed: she demands proof/sacrifice; PCs lose: she attempts a grand anointing with backlash risk.
+
+---
+
+## [S03] River Chase (Set Piece)
+- Where: Stir bends and fog banks
+- Tone: Slippery pursuit under raven cries
+
+### Play
+- Pilot checks to avoid obstacles; Ranged to deter shore archers; Perception to read the fog.
+
+### Twist
+- The tiller coin vibrates and points toward another anchor (hints at Château Malchance).
+
 ## [S01] Mirror Bandits (Roadside Combat)
 - Where: Misty hedgerow lane or forest switchback near the border
 - Tone: Skittish violence; everyone avoids reflections

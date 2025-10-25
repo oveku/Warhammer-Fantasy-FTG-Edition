@@ -18,6 +18,7 @@ A Warhammer Fantasy FTG Edition campaign that begins in the Empire and draws the
 - session-01.md — The call to Bretonnia (first session plan)
 - session-02.md — The Lucky Midnight (Artois in Nuln)
 - session-03.md — Perfumes and Prophecies (Eléonore on the River Stir)
+	- Focus: Unstable occult perfumer; corpse-derived Eau de Morr; debate vs. sanctify vs. steal the still
 - session-04.md — Château Malchance (Margot in Parravon)
 - session-05.md — The Dowager’s Waltz Requiem (Grand Ball)
 - encounters.md — The Green Pilgrimage and more optional scenes

@@ -68,9 +68,14 @@ By Session (print quick-ref):
 - Overview: A creaking barge stitched from coffin boards and ribs, drifting between Stirland towns under night fog.
 - Key Features: Raven cages, a portable perfume still (reliquary), mirrored censer for “shadow aspect” rites.
 - NPCs: Eléonore; two veiled attendants; a Morr-ordained ferryman unwillingly bound.
-- Hooks: Debate her “shadow aspect” doctrine (social combat); seize the still; rescue the ferryman.
+- Hooks: Debate her “shadow aspect” doctrine (social combat); seize/sanctify/destroy the still; rescue the ferryman.
 
-## [S04] Border Waystations (Reikland → Parravon)
+### Session 3 Details — Bone Barge Interior
+- Deck Chapel: Fog-lanterns, mirror censer gives Eléonore a −10 edge in debates unless sanctified.
+- Extraction Lab: Copper still hums; vials labeled “Lot Ysabeau,” “Lot Dowager,” “Lot Lucien”; corpse-derived absolutes identifiable with Investigation.
+- Tiller & Tithe: Resin-sealed coin binds the ferryman; cracking it frees him and grants discreet passage upriver.
+
+## [S01] Border Waystations (Reikland → Parravon)
 - Overview: Customs houses, shrines, and suspicious knights-errant
 - Key Features: Smugglers’ tunnel; Morr’s waystone; mirror-lined reliquary
 - Encounters: Pilgrim caravan; Beastmen spoor; Bretonnian zealots testing “purity”
@@ -81,7 +86,7 @@ By Session (print quick-ref):
 - NPCs: Apparition of Ysabeau; perfumers’ guild interlopers; a priest of Morr investigating.
 - Hooks: Bottle a boon or bane; placate Ysabeau; decide whether to sanctify or destroy the still.
 
-### Session 4 Details — Brücke-Watch Waystation
+### Session 1 Details — Brücke-Watch Waystation
 - History: Raised on the site of an old mirror-stone; shrine to the Lady faces a neglected Morr stone.
 - Atmosphere: Incense haze, falcon cries, ledgers scratching, pilgrims in queue.
 - Features: Tiny "true self" mirrors; blue-stamped visas; holding room draped in blue.

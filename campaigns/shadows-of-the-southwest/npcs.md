@@ -22,11 +22,11 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 - Secret: His reflection hunts him; the coin anchors more than memories
 
 ## Eléonore “The Whisperer” [S03]
-- Role: Occult apothecary; prophetess of the Lady’s “shadow aspect”
-- Appearance: Veiled; raven-feather shawl; bone bangles that clack in iambic rhyme
-- Personality: Serene, unsettling; answers questions you didn’t ask
-- Motivation: Establish a legitimate cult; be right about the Lady
-- Secret: Has Morr’s attention; her prophecies attract the dead
+**Role:** Occult perfumer-cult leader; prophetess of the Lady’s “shadow aspect”
+**Appearance:** Veiled; raven-feather shawl; bone bangles that clack in iambic rhyme; hands stained with resin and oils
+**Personality:** Unhinged zeal, precise ritualist; slips into rhyme; treats omens as answers
+**Motivation:** Prove memory can be bottled and luck manufactured through sacrament of scent
+**Secrets:** Eau de Morr includes corpse-derived “absolutes”; mirrored censer falsifies omens unless sanctified; heard Robert laughing in a mirror “last week”
 
 ## Artois “The Brave” [S02]
 - Role: Gambler and accidental lynchpin
@@ -134,6 +134,13 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 **Personality:** Resigned, whispers to the river when afraid
 **Motivation:** Be freed from service; warn travelers subtly
 **Secret:** Holds a delivery chit ledger linking Dock 3 to the barge
+
+### Raven-Choir Attendants (2–4) [S03]
+**Role:** Chanting assistants who keep ritual time; enforce etiquette
+**Appearance:** Black half-masks lined with saint-glass slivers; inked verses on forearms
+**Personality:** Breathless devotion; easily rattled when rites break tempo
+**Motivation:** Seek revelations and protection through scent
+**Secret:** One stole a vial labeled “Lot Ysabeau”; another fears the censer’s mirror
 
 ### Witch Hunter Widow (Golden Pike Regular)
 **Role:** Social lever inside the Pike; rumor source about Artois

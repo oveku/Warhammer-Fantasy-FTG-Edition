@@ -21,12 +21,13 @@ A border-crossing mystery from Altdorf to Parravon, descending into the cursed l
 ## Act II — Parravon’s Perfumes and Ghosts
 - Investigations split between vintners’ guilds, shrines to the Lady, and ruined Satanreux lands.
 - Revelations:
-  - Luck is manufactured: tokens, perfumes, and coins imbued with bound spirits.
+  - Luck is manufactured: tokens, corpse-derived perfumes, and coins imbued with bound spirits.
   - The family’s chapel was accidentally consecrated to Morr; funerary rites misdirected souls to Château Malchance.
-  - Eléonore’s “shadow aspect” draws Morr’s attention; she isn’t entirely lying.
+  - Eléonore’s “shadow aspect” draws Morr’s attention; she distills memory from the dead and calls it sacrament.
 - Set Pieces:
   - The Dowager’s Waltz: a spectral ball at Château Malchance (social combat + exorcism puzzle).
   - The Bone Wine tasting: nobles risk their souls for bouquet and status.
+  - River Stir Barge: doctrine debate, reliquary heist, or sanctification; optional river chase.
 - Milestone: Identify the anchor objects (coin, perfume still, chapel reliquary) and choose which to destroy, redeem, or repurpose.
 
 ## Act III — Luck’s Price
