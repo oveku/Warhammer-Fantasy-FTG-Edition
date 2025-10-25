@@ -9,7 +9,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import cheerio from 'cheerio';
+import { load } from 'cheerio';
 import OpenAI from 'openai';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -37,7 +37,7 @@ async function main() {
 
   await fs.mkdir(OUT_DIR, { recursive: true });
   const html = await fs.readFile(HTML_FILE, 'utf8');
-  const $ = cheerio.load(html);
+  const $ = load(html);
 
   const items = [];
   $('.item').each((_, el) => {
