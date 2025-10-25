@@ -40,15 +40,7 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 - Tests: Gossip/Charm (Easy) for rumors; Intuition (Average) to catch the flinch at mirrors; Sleight of Hand (Hard) to lift a vial.
 - Quote: “Scent is memory. Memory is immortality, in polite company.”
 
-3) Captain Rémy Valoise (Border Customs, Bretonnian)
-- Appearance: Immaculate tabard, hawk-feather plume; eyes reddened by incense tests.
-- Role: Decides who crosses and under what stigma.
-- Motivation: Keep zealots and smugglers at bay without angering Parravon’s court.
-- Secrets: On the vintners’ payroll; hides a cracked pilgrimage mirror.
-- Tests: Etiquette (Average) to follow forms; Bribery (Hard) unless backed by Witch Hunter writs (Easy).
-- Quote: “Purity is a ledger. I balance it daily.”
-
-4) Abbé Celestin d’Anjou (Traditionalist Chaplain of the Lady)
+3) Abbé Celestin d’Anjou (Traditionalist Chaplain of the Lady)
 - Appearance: White and sky-blue vestments; gloves to avoid touching “polluted” relics.
 - Role: Administers purity tests; blocks "shadow aspect" heresies.
 - Motivation: Prevent scandal; destroy Satanreux anchors; humiliate Morr’s interlopers.
@@ -56,7 +48,7 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 - Tests: Theology (Morr vs. the Lady) debate via Social Combat; Willpower (Hard) to resist incense-induced visions.
 - Quote: “The Lady’s face has no shadow. That is your first mistake.”
 
-5) Kaspar “Rotgut” Kessel (Mirror Bandit Leader)
+4) Kaspar “Rotgut” Kessel (Mirror Bandit Leader)
 - Appearance: Scars crossing his cheeks like shattered glass; won’t meet his own eyes.
 - Role: Leads an ambush to seize any mirrors or mirrored items from the party.
 - Motivation: Get paid by “a guildman with a falcon pin” (Vintners front).
@@ -64,7 +56,7 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 - Tests: Intimidate (Easy) to scatter the mooks; Interrogate (Average) to learn the employer’s clue.
 - Quote: “Don’t look! If you see it, it sees you.”
 
-6) Mogdrak Skullgleam (Orc Pilgrim Herald — Cameo)
+5) Mogdrak Skullgleam (Orc Pilgrim Herald — Cameo)
 - Appearance: Blackened face paint; polished shield used as a mirror; bacon-grease incense.
 - Role: Delivers omen-seeking antics; can become a noisy escort if appeased.
 - Motivation: Find signs that "Da Burnt Prophet" lives.
@@ -144,7 +136,7 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 
 ## Outcomes & Branches
 
-- Best Case: Legal entry, ally in Falk or Valoise, solid clues to coin and barge. Reputation: +1 with pragmatic officials, 0 with Traditionalists.
+- Best Case: Ally in Falk, solid clues to coin and barge. Reputation: +1 with pragmatic officials, 0 with Traditionalists.
 - Mixed Case: Forged papers work but flag PCs (Heat +1). Gain a rival in the zealot faction. Orcs might trail you as “heralds.”
 - Worst Case: Mirror bandits escalate or a rite goes awry; take the Hollow Way (gain 1 temporary Corruption if you fail a Hard Willpower test) but reach Nuln with spooky proof that “something watches.”
 - Optional: If PCs steal the wrong mirror, the reflection pursues one character in dreams (advantage once / penalty once next session; GM’s choice depending on play).
@@ -155,7 +147,7 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 
 - Letters of Passage (advantage on future customs checks once).
 - Token of Morr (once per session reroll vs. fear/corruption).
-- Favor from Valoise or Falk (banked; spend to cancel one bureaucratic obstacle later).
+- Favor from Falk (banked; spend to cancel one bureaucratic obstacle later).
 - If allied with Orcs: Orc Token (advantage on tests to influence Orcs; disadvantage with stuffy nobles if displayed).
 
 ---

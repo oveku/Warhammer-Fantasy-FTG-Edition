@@ -114,6 +114,14 @@ Use this site if the party is routed back through formal customs during Session 
 - Forged Papers: Trade (Forgery kit) or Lore (Bureaucracy), Hard. On success, papers work unless zealots are present; on failure, flags names (Heat +1 in Parravon).
 - Quiet Bribe: Bribery (Hard) unless backed by Witch Hunter writ (then Easy). Reveals vintner involvement on success.
 
+### Captain Rémy Valoise — Border Customs (Bretonnia)
+- Appearance: Immaculate tabard, hawk-feather plume; eyes reddened by incense tests.
+- Role: Decides who crosses and under what stigma.
+- Motivation: Keep zealots and smugglers at bay without angering Parravon’s court.
+- Secrets: On the vintners’ payroll; hides a cracked pilgrimage mirror.
+- Tests: Etiquette (Average) to follow forms; Bribery (Hard) unless backed by Witch Hunter writs (Easy).
+- Quote: “Purity is a ledger. I balance it daily.”
+
 ## Border Confrontation (set-piece, Social Combat optional)
 
 - Setup: The queue, the shrine, the mirror. Abbé Celestin arrives to “assist.”
@@ -193,7 +201,7 @@ If things go loud, the barge casts off:
 
 - Border Visa (used only if customs scene occurs)
   
-	<img src="./handouts/images/s01_border_visa.png" width="200" alt="Border Visa" />
+	<img src="./handouts/images/s03_border_visa.png" width="200" alt="Border Visa" />
 
 ## Next: Session 04 — Château Malchance (Parravon)
 - With the coin/lot/ally in hand, the party approaches the Dowager and the mis-consecrated chapel.

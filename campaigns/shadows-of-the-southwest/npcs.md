@@ -24,9 +24,9 @@ By Session (print quick-ref):
 
 | Session | Key NPCs |
 |---|---|
-| S01 | Hildegard Falk; Mariette Voss; Captain Rémy Valoise; Abbé Celestin d’Anjou; Kaspar “Rotgut” Kessel; Mogdrak Skullgleam |
+| S01 | Hildegard Falk; Mariette Voss; Abbé Celestin d’Anjou; Kaspar “Rotgut” Kessel; Mogdrak Skullgleam |
 | S02 | Artois “the Brave”; Master of Midnight (pit boss); Johan Pech; Signet “Velveteen” Sarto; Widow Ilsabet Krauss; Dock Boss |
-| S03 | Eléonore “The Whisperer”; Ferryman of the Stir; Ysabeau “The Perfumed” (spirit) |
+| S03 | Eléonore “The Whisperer”; Ferryman of the Stir; Captain Rémy Valoise; Ysabeau “The Perfumed” (spirit) |
 | S04 | Margot “The Dowager of Dust”; Master Falconer of Parravon; Guild Taster; Morr Priest Contact |
 | S05 | Robert Le Satanreux II “Le Deux”; Luc le Rôdeur |
 ### Dame Colette Vervain — Guild Perfumer Rival [S05]
@@ -175,13 +175,7 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 **Motivation:** Keep the business profitable and doctrinally defensible
 **Secret:** Knows the Lucky Coin must “toll midnight” inside the Golden Pike
 
-### Captain Rémy Valoise — Border Customs (Bretonnia)
-<img src="./handouts/npcs/npc_remy_valoise.png" width="200" alt="Captain Rémy Valoise" />
-**Role:** Controls border passage and stigma; gatekeeper to Parravon
-**Appearance:** Immaculate tabard, hawk plume, red-rimmed eyes from incense
-**Personality:** Ledger-minded, calm, faintly weary
-**Motivation:** Maintain order and favor with court; keep zealots in check
-**Secret:** On the vintners’ payroll; hides a cracked pilgrimage mirror
+<!-- Captain Rémy Valoise moved to Session 03 section below -->
 
 ### Abbé Celestin d’Anjou — Traditionalist Chaplain of the Lady
 <img src="./handouts/npcs/npc_abbe_celestin.png" width="200" alt="Abbé Celestin d’Anjou" />
@@ -264,6 +258,16 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 **Personality:** Practical, bribe-friendly, caste-conscious
 **Motivation:** Keep the docks moving; avoid Witch Hunter attention
 **Secret:** Saw the coin “change sides” at midnight; won’t speak without a marker
+
+---
+
+### Captain Rémy Valoise — Border Customs (Bretonnia) [S03]
+<img src="./handouts/npcs/npc_remy_valoise.png" width="200" alt="Captain Rémy Valoise" />
+**Role:** Controls border passage and stigma; gatekeeper to Parravon
+**Appearance:** Immaculate tabard, hawk plume, red-rimmed eyes from incense
+**Personality:** Ledger-minded, calm, faintly weary
+**Motivation:** Maintain order and favor with court; keep zealots in check
+**Secret:** On the vintners’ payroll; hides a cracked pilgrimage mirror
 
 ---
 
