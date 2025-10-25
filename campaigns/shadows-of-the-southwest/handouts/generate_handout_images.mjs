@@ -9,6 +9,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import dotenv from 'dotenv';
 import { load } from 'cheerio';
 import OpenAI from 'openai';
 
@@ -23,6 +24,9 @@ const MODEL = process.env.OPENAI_IMAGE_MODEL || 'gpt-image-1';
 const SIZE = process.env.OPENAI_IMAGE_SIZE || '1024x1536'; // portrait-friendly
 const QUALITY = process.env.OPENAI_IMAGE_QUALITY || 'high';
 const N_IMAGES = parseInt(process.env.OPENAI_IMAGE_N || '1', 10);
+
+// Load .env from project root so OPENAI_API_KEY and options are picked up
+dotenv.config({ path: path.join(ROOT, '.env') });
 
 function ensurePng(filenameFallback) {
   // filename string may carry .png in parentheses inside h2
