@@ -1,5 +1,23 @@
 # Major NPCs — Shadows of the Southwest
 
+## Family Tree — Le Satanreux Clan
+
+```
+Lord Gilles Le Satanreux (Founder, c.1800 IC)
+│
+├── Armand "the Fortunate" (d. mysteriously in his sleep, 1855 IC)
+│   ├── Bastien "the Invisible" (spy for the Duke of Parravon, vanished)
+│   └── Ysabeau "the Perfumed" (poisoner; married 4 times, all died of “indigestion”)
+│
+├── Lucien "the Blessed" (built the family chapel, accidentally consecrated it to Morr)
+│   └── Robert Le Satanreux I "the Unread" (father of our hero)
+│       ├── Robert Le Satanreux II "Le Deux"  ← your PC
+│       ├── Eléonore "the Whisperer" (claimed to be a prophetess of the Lady, banished for blasphemy)
+│       └── Artois "the Brave" (actually a coward; hid under false names in Reikland taverns)
+│
+└── Margot “the Mad Dowager” (d. 2490 IC, haunting confirmed)
+```
+
 This file is organized with session tags for quick prep. Tags like [S02] indicate the primary session where the NPC features.
 
 By Session (print quick-ref):
