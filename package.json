@@ -1,0 +1,13 @@
+{
+  "name": "warhammer-fantasy-ftg-edition",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "handouts:images": "node campaigns/shadows-of-the-southwest/handouts/generate_handout_images.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "openai": "^4.55.0"
+  }
+}
