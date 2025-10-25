@@ -2,6 +2,16 @@
 
 This file is organized by session. Tags like [S01] indicate where an encounter best fits. Some are usable across multiple sessions and are tagged accordingly.
 
+By Session (print quick-ref):
+
+| Session | Encounters |
+|---|---|
+| S01 | Mirror Bandits; Zealot Procession; Ossuary Echo; The Green Pilgrimage (optional) |
+| S02 | Midnight on the Nuln Docks; Golden Pike Floor Events; Bravos’ Code Duel; Ledger Heist at the Toll; Bell Jam Gambit; Side Door Stakeout |
+| S03 | Perfume Run (also usable in S01 as lead-in) |
+| S04 | Falconer’s Trial |
+| S05 | The Waltzing Dead Cart (lead-in during S04) |
+
 ---
 
 ## [S01] Mirror Bandits (Roadside Combat)

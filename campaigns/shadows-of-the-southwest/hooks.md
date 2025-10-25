@@ -2,6 +2,17 @@
 
 This file is organized by session. Tags like [S01] indicate the primary session. Side hooks are evergreen and note where they sync back in.
 
+By Session (print quick-ref):
+
+| Session | Hooks |
+|---|---|
+| S01 | Quiet Commission to Bretonnia; The Street Whisper; The Green Pilgrimage (optional) |
+| S02 | The Lucky Midnight (Golden Pike) |
+| S03 | Perfumes and Prophecies (Eléonore’s Barge) |
+| S04 | The Dowager of Dust (Château Malchance) |
+| S05 | The Dowager’s Waltz Requiem (Grand Ball) |
+| Evergreen | Bone Wine Tasting; Return of the Burnt Prophet; Bretonnian Commission |
+
 ---
 
 ## [S01] Quiet Commission to Bretonnia (Witch Hunter Briefing)

@@ -2,6 +2,16 @@
 
 This file is organized with session tags for quick prep. Tags like [S02] indicate the primary session where the NPC features.
 
+By Session (print quick-ref):
+
+| Session | Key NPCs |
+|---|---|
+| S01 | Hildegard Falk; Mariette Voss; Captain Rémy Valoise; Abbé Celestin d’Anjou; Kaspar “Rotgut” Kessel; Mogdrak Skullgleam |
+| S02 | Artois “the Brave”; Master of Midnight (pit boss); Johan Pech; Signet “Velveteen” Sarto; Widow Ilsabet Krauss; Dock Boss |
+| S03 | Eléonore “The Whisperer”; Ferryman of the Stir; Ysabeau “The Perfumed” (spirit) |
+| S04 | Margot “The Dowager of Dust”; Master Falconer of Parravon; Guild Taster; Morr Priest Contact |
+| S05 | Robert Le Satanreux II “Le Deux”; Luc le Rôdeur |
+
 Use FTG format for quick reference. Provide stats when needed during prep.
 
 ## Robert Le Satanreux II — “Le Deux,” The Burnt Prophet (Undead?) [S05]
