@@ -5,7 +5,7 @@ Purpose: Launch the campaign, seed core motifs (coin, perfume, mirrors, “Not y
 Session length: 3–4 hours
 
 Primary beats:
-- Hook in Altdorf (or briefing) → securing passage → road perils → Ending up in Nuln.
+- Hook in Altdorf (or briefing) → investigation and prep → road perils (Empire-side) → Ending up in Nuln.
 
 ---
 
@@ -118,14 +118,6 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 
 ---
 
-## Securing Passage (procedural options)
-
-- Legal Route: Etiquette/Charm with Captain Valoise (Average). Success yields stamped papers; great success adds a goodwill note reducing scrutiny later.
-- Forged Papers: Trade (Forgery kit) or Lore (Bureaucracy), Hard. On success, papers work unless zealots are present; on failure, flags your names (Heat +1 in Parravon).
-- Quiet Bribe: Bribery (Hard) unless you can cite Falk’s writ (then Easy). Reveals vintner involvement on success.
-
----
-
 ## Road Perils (run 1–2)
 
 1) Mirror Bandits (Combat/Intimidation)
@@ -138,17 +130,6 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 
 3) Beastmen Spore (Atmospheric)
 - No fight unless provoked; ravens peck tracks into the shape of a tear.
-
----
-
-## Border Confrontation (set-piece, Social Combat optional)
-
-- Setup: The queue, the shrine, the mirror. Abbé Celestin arrives to “assist.”
-- Options:
-	- Debate the Abbé (Social Combat): Theology (Average); each victory downgrades purity penalties.
-	- Play by the Book: Submit to tests; Willpower (Average) vs incense; accept a stigma stamp (minor Disadvantage with Traditionalists) to gain quick entry.
-	- Sleight and Subvert: Replace the mirror with a smudged cloth trick (Sleight of Hand, Hard) for one party member’s test.
-- Complications: A confiscated coin flips itself heads at the hour; if PCs notice and claim relevance, gain Clue: “Midnight matters.”
 
 ---
 
@@ -165,7 +146,7 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 
 - Best Case: Legal entry, ally in Falk or Valoise, solid clues to coin and barge. Reputation: +1 with pragmatic officials, 0 with Traditionalists.
 - Mixed Case: Forged papers work but flag PCs (Heat +1). Gain a rival in the zealot faction. Orcs might trail you as “heralds.”
-- Worst Case: Denied at border → take the Hollow Way (gain 1 temporary Corruption if you fail a Hard Willpower test) but reach Parravon sooner with spooky proof that “something watches.”
+- Worst Case: Mirror bandits escalate or a rite goes awry; take the Hollow Way (gain 1 temporary Corruption if you fail a Hard Willpower test) but reach Nuln with spooky proof that “something watches.”
 - Optional: If PCs steal the wrong mirror, the reflection pursues one character in dreams (advantage once / penalty once next session; GM’s choice depending on play).
 
 ---
@@ -188,7 +169,6 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 	<img src="./handouts/images/s01_invitation_scrap.png" width="200" alt="Invitation Scrap" />
 
   
-	<img src="./handouts/images/s01_border_visa.png" width="200" alt="Border Visa" />
 
 ## GM Notes & Pacing
 

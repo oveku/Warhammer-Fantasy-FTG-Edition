@@ -108,6 +108,23 @@ Use this site if the party is routed back through formal customs during Session 
 
 ---
 
+## Customs and Passage (if used)
+
+- Legal Route: Etiquette/Charm with Captain Valoise (Average). Success yields stamped papers; great success adds a goodwill note reducing scrutiny later.
+- Forged Papers: Trade (Forgery kit) or Lore (Bureaucracy), Hard. On success, papers work unless zealots are present; on failure, flags names (Heat +1 in Parravon).
+- Quiet Bribe: Bribery (Hard) unless backed by Witch Hunter writ (then Easy). Reveals vintner involvement on success.
+
+## Border Confrontation (set-piece, Social Combat optional)
+
+- Setup: The queue, the shrine, the mirror. Abbé Celestin arrives to “assist.”
+- Options:
+	- Debate the Abbé (Social Combat): Theology (Average); each victory downgrades purity penalties.
+	- Play by the Book: Submit to tests; Willpower (Average) vs incense; accept a stigma stamp (minor Disadvantage with Traditionalists) to gain quick entry.
+	- Sleight and Subvert: Replace the mirror with a smudged cloth trick (Sleight of Hand, Hard) for one party member’s test.
+- Complications: A confiscated coin flips itself heads at the hour; if PCs notice and claim relevance, gain Clue: “Midnight matters.”
+
+---
+
 ## Confrontation Paths (choose 1–2)
 
 1) Interrupt the Rite (Risky)
@@ -173,6 +190,10 @@ If things go loud, the barge casts off:
 
   
 	<img src="./handouts/images/s03_resin_coin_diagram.png" width="200" alt="Resin Coin Diagram" />
+
+- Border Visa (used only if customs scene occurs)
+  
+	<img src="./handouts/images/s01_border_visa.png" width="200" alt="Border Visa" />
 
 ## Next: Session 04 — Château Malchance (Parravon)
 - With the coin/lot/ally in hand, the party approaches the Dowager and the mis-consecrated chapel.
