@@ -29,7 +29,7 @@ The party is commissioned to travel from the Empire to Parravon to quietly resol
 	- The Dowager’s Waltz, mirror hall, and a mis-consecrated chapel to Morr. Lay the Dowager to rest, bargain, or bind her; position factions for the ball.
 
 - Session 05 — The Dowager’s Waltz Requiem (Grand Ball)
-	- Meet Robert “Le Deux.” Anchors resonate; decide between redemption, damnation, or masked regency. Resolve the scandal of Parravon.
+	- Grand ball or last stand: Orcs may lay siege and zealots attempt a purge. Social rounds, the Waltz of Three Deaths, and The Shatter decide the fate of anchors and Robert “Le Deux.” Choose redemption, damnation, or masked regency.
 
 ### Quick Links
 

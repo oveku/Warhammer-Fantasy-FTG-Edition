@@ -11,6 +11,10 @@ A border-crossing mystery from Altdorf to Parravon, descending into the cursed l
   - Arrival: Explore Mirror Hall (delayed reflections), Wardrobes of Luck, Chapel of the Wrong God
   - Finale: Choose Practice Waltz (social/puzzle), Mirror Duel (timing skirmish), or Chapel Rite (ritual)
 5) Session 05 — The Dowager’s Waltz Requiem (Parravon): Grand ball set-piece; meet Robert “Le Deux”; fate of Bretonnia at stake.
+  - Social: Grand Ball—two to three social rounds to sway clergy, guilds, masons, exchequer
+  - Puzzle: The Waltz of Three Deaths reveals usable mechanics
+  - Crisis: Clocks—Orc Siege, Zealot Purge, Reflection Strain—may trigger The Shatter
+  - Resolution: Redemption, Damnation, or Masked Regent; guest agendas can tilt final state
 
 ## Act I — The Call to Bretonnia (Empire → Parravon)
 - Inciting Request: A patron (witch hunter, noble factor, or Grey Order mentor) tasks the party with investigating the Satanreux line in Bretonnia. Payment in titles, absolution, or rare tomes.

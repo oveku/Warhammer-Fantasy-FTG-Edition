@@ -10,7 +10,7 @@ By Session (print quick-ref):
 | S02 | Midnight on the Nuln Docks; Golden Pike Floor Events; Bravos’ Code Duel; Ledger Heist at the Toll; Bell Jam Gambit; Side Door Stakeout |
 | S03 | Boarding in the Fog; Basement Briefing; Reliquary Extraction; Raven Sermon; River Chase; Perfume Run (also usable in S01 as lead-in) |
 | S04 | Border Reprise (Parravon Gate); Perfumed Bog Hazards; Practice Waltz; Mirror Hall Duel; Chapel Sanctification; Falconer’s Trial |
-| S05 | The Waltzing Dead Cart (lead-in during S04) |
+| S05 | Grand Ball Social Rounds; Waltz of Three Deaths; The Shatter; Orc Siege; Zealot Purge; Anchor Interventions; Evacuation |
 
 ---
 
@@ -280,6 +280,78 @@ Dockhands argue over a crate that “won’t weigh right” until the bell tolls
 - Outcome: Earn free entry to the Pike next session or a marker from a dock boss.
 
 ---
+
+## [S05] Grand Ball Social Rounds (Social)
+- Where: Château Malchance ballroom, salons, and balconies
+- Tone: Velvet diplomacy; perfumes and whispers
+
+### Play
+- Two to three rounds; choose targets (clergy, guilds, masons, exchequer, nobles). Each success reduces a chosen Clock (Siege, Purge, Reflection) by 1.
+
+### Reward
+- Vow-Token or Faction Favor usable in later phases.
+
+---
+
+## [S05] Waltz of Three Deaths (Skill/Puzzle)
+- Where: Ballroom center
+- Tone: Ritual dance echoing Robert’s deaths
+
+### Play
+- Three dances; each reveals one mechanic (timing echo, mirror-swap, burn-purge).
+
+### Reward
+- Vow-Token; +1 against Reflection clock for flawless performance.
+
+---
+
+## [S05] The Shatter (Set Piece)
+- Where: Throughout the château
+- Tone: Mirror burst, anchor hum, screams and hymns
+
+### Play
+- When any clock hits 3, reflections attack. PCs can target anchors, the reflection boss, or sources of Siege/Purge.
+
+### Effects
+- Ring the Coin on a mirror to stop reflection crits for 1 round; use Chapel Ash to sanctify a zone; spend Reliquary Core for a memory reveal opening fear/social tests.
+
+---
+
+## [S05] Orc Siege (Battle Montage)
+- Where: Gate, courtyard, battlements
+- Tone: pounding drums, Waaagh! chants
+
+### Stages
+- 1: Envoys demand the Prophet; 2: Ram the gate; 3: Breach unless signs redirect.
+
+### Options
+- Use Mason’s crew to brace (−1 Siege), redirect orcs with a sign, or open and parley.
+
+---
+
+## [S05] Zealot Purge (Crisis)
+- Where: Chapel and ballroom thresholds
+- Tone: Incense and proclamations
+
+### Stages
+- 1: Proclamations; 2: Arrest attempts; 3: Burn perfumes/chapel unless opposed.
+
+### Options
+- Social combat with Canoness; joint rite with Morr Canon; redirect zealots at orcs.
+
+---
+
+## [S05] Anchor Interventions (Tactical)
+- Play: Strike, sanctify, or spend anchors to generate battlefield effects that change clocks and reflection behavior.
+
+---
+
+## [S05] Evacuation or Coronation (Resolution)
+- Where: Courtyard or ballroom dais
+- Tone: Aftermath—crowns, ashes, or both
+
+### Outcomes
+- Evacuate key NPCs through mirror path (Luc’s song) or culverts; or crown a Masked Regent as reflections kneel.
 
 ## [S01→S03] Perfume Run (Chase/Heist)
 - Where: Altdorf streets to Stir riverside dock

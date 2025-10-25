@@ -11,6 +11,40 @@ By Session (print quick-ref):
 | S03 | Eléonore “The Whisperer”; Ferryman of the Stir; Ysabeau “The Perfumed” (spirit) |
 | S04 | Margot “The Dowager of Dust”; Master Falconer of Parravon; Guild Taster; Morr Priest Contact |
 | S05 | Robert Le Satanreux II “Le Deux”; Luc le Rôdeur |
+### Dame Colette Vervain — Guild Perfumer Rival [S05]
+**Role:** Competing perfumer seeking exclusive license; can provide “scent screens”
+**Appearance:** Chic mask with silver filigree; sash of blue-violet
+**Personality:** Cutting, poised, opportunistic
+**Motivation:** Discredit Eau de Morr; secure contracts with Parravon court
+**Secret:** Her “screen” uses a trace of Eau de Morr—she stole the technique
+
+### Maître Rolf Steinhauer — Master Mason [S05]
+**Role:** Builder wanting the fortress and chapel contracts
+**Appearance:** Broad hands, chalk-stained doublet; satchel of iron pins
+**Personality:** Gruff, practical, secretly sentimental about old stones
+**Motivation:** Rebuild reputation and walls; protect workers
+**Secret:** Knows a subsidence under the gate that can be exploited or shored
+
+### Étienne Verdoux — Exchequer Agent [S05]
+**Role:** Tax and ownership official; can divert or summon city guards
+**Appearance:** Quill behind ear, ledger chain, hawk-scented wax seal
+**Personality:** Smiling, exacting, easily offended
+**Motivation:** Clarify titles; increase revenue
+**Secret:** Holds sealed orders to seize Satanreux assets “in event of scandal”
+
+### Canoness Ysolda — Traditionalist of the Lady [S05]
+**Role:** Leads zealot cadre; pushes for purge
+**Appearance:** Sky-blue mantle, hawk brooch; eyes like drawn steel
+**Personality:** Pious, uncompromising
+**Motivation:** Purity of shrine and court
+**Secret:** Consulted Eléonore once, and fears it might surface
+
+### High Adept of Morr (Name at table) [S05]
+**Role:** Senior Morr clergy at the ball; prefers rites over violence
+**Appearance:** Black and white vestments; ash-scented gloves
+**Personality:** Calm, grave, wry
+**Motivation:** Proper endings; minimum scandal
+**Secret:** Will accept a pragmatic truce if the dead are honored
 
 Use FTG format for quick reference. Provide stats when needed during prep.
 
@@ -36,6 +70,12 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 - Secret: His “lucky coin” is Robert’s phylactery; ledger is a spellbook
 
 ## Margot “The Dowager of Dust” [S04→S05]
+- Role: Undead matriarch; courtly terror
+- Appearance: Decayed elegance; skeletal servants with perfect etiquette
+- Personality: Cutting, nostalgic, exacting host
+- Motivation: Preserve the family—dead or alive
+- Secret: Bound to the estate by a mis-consecrated chapel; wants a proper waltz
+
 ### Skeletal Major-Domo of Malchance [S04]
 **Role:** Enforces etiquette and ceremony within Château Malchance; gatekeeper to Margot’s favor
 **Appearance:** Polished skull, immaculate tailcoat stitched to bone; silver nameplate worn smooth
@@ -49,11 +89,6 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 **Personality:** Brisk, professional, enjoys catching fakes
 **Motivation:** Keep scandal out of Parravon; earn guild favor for accurate detections
 **Secret:** Mildly allergic—hawks sneeze when Eau de Morr is near; she masks it as “a sign”
-- Role: Undead matriarch; courtly terror
-- Appearance: Decayed elegance; skeletal servants with perfect etiquette
-- Personality: Cutting, nostalgic, exacting host
-- Motivation: Preserve the family—dead or alive
-- Secret: Bound to the estate by a mis-consecrated chapel; wants a proper waltz
 
 ## Ysabeau “The Perfumed” (Ancestor Spirit) [S03]
 - Role: Perfume-bound spirit; boon or bane

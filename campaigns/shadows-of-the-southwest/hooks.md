@@ -60,9 +60,9 @@ By Session (print quick-ref):
 ---
 
 ## [S05] The Dowager’s Waltz Requiem (Grand Ball)
-- Setup: Mortals and ghosts mingle under truce; factions of the Lady and Morr circle; Orc pilgrims wait outside for a sign.
-- Complications: Three dances mirror Robert’s three deaths; reflections attack when anchors resonate (coin, perfume, reliquary).
-- Outcomes: Redemption (sanctify), Damnation (weaponize luck), or Masked Regent (bind the curse). Fate of Bretonnia’s scandal sealed.
+- Setup: Mortals and ghosts mingle under truce; factions of the Lady and Morr circle. If the party didn’t parley with the Orcs, they arrive now and begin a siege; zealots prepare a purge.
+- Complications: Three dances mirror Robert’s deaths; reflections attack when anchors resonate (coin, perfume, reliquary). Siege/Purge clocks can throw the ball into chaos.
+- Outcomes: Redemption (sanctify), Damnation (weaponize luck), or Masked Regent (bind the curse). Fate of Parravon sealed. Guest agendas (perfumer, mason, exchequer) can tilt outcomes.
 - Leads to: Session 05; Locations: Château Malchance; payoffs for all anchors.
 
 ---

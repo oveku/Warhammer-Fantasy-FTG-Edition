@@ -133,3 +133,9 @@ By Session (print quick-ref):
 - Overview: Secret tomb complex built by Robert I for “future experiments”
 - Key Features: Lab-of-Morr; preserved echo of a sermon; Skaven-scratched graffiti
 - Danger: Recently looted; unstable walls; traps powered by bound luck
+
+### Session 5 Details — Ball & Battlements
+- Ballroom: Masquerade floor with dais; mirrors veiled until Shatter; social “rings” (clergy, guilds, nobles)
+- Battlements & Gate: Ram points, mason bracing, vantage for archers; orc siege stages visible
+- Service Corridors: Staff routes for stealth and evacuation; mirror nooks for Luc’s song-path
+- Chapel Thresholds: Purge staging area; joint rites with Morr Canon possible
