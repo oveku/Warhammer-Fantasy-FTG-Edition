@@ -203,7 +203,7 @@ The Master Falconer tests foreigners with three proofs: Wind, Reflection, and Me
 
 ---
 
-## [S04] Border Reprise — Paravvon Gate of Perfumes (Social/Skill)
+## [S04] Border Reprise — Parravon Gate of Perfumes (Social/Skill)
 - Where: Bretonnian gatehouse outside Parravon
 - Tone: Courtly suspicion with perfumers and clergy
 

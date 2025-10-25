@@ -102,7 +102,7 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 **Secret:** Knows the chapel’s vow-lines and will hint at them if addressed with flawless titles
 
 ### Perfume Inspector Clairette de Lys [S04]
-**Role:** Perfumers’ guild agent at the Paravvon Gate; screens travelers for “perfumed corruption”
+**Role:** Perfumers’ guild agent at the Parravon Gate; screens travelers for “perfumed corruption”
 **Appearance:** Blue sash, hawk-sigil stamp, scent-cones and blotters at her belt
 **Personality:** Brisk, professional, enjoys catching fakes
 **Motivation:** Keep scandal out of Parravon; earn guild favor for accurate detections

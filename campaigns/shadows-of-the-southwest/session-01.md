@@ -5,7 +5,7 @@ Purpose: Launch the campaign, seed core motifs (coin, perfume, mirrors, “Not y
 Session length: 3–4 hours
 
 Primary beats:
-- Hook in Altdorf (or briefing) → securing passage → road perils → border confrontation → choice of route into Bretonnia.
+- Hook in Altdorf (or briefing) → securing passage → road perils → Ending up in Nuln.
 
 ---
 

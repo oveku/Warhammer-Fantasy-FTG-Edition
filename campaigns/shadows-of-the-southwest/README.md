@@ -20,7 +20,7 @@ A Warhammer Fantasy FTG Edition campaign that begins in the Empire and draws the
 - session-03.md — Perfumes and Prophecies (Eléonore on the River Stir)
 	- Focus: Unstable occult perfumer; corpse-derived Eau de Morr; debate vs. sanctify vs. steal the still
 - session-04.md — Château Malchance (Margot in Parravon)
-	- Focus: Cross Paravvon Gate; perfumed bog approach; practice waltz vs. mirror duel vs. chapel rite to resolve the Dowager
+		- Focus: Cross Parravon Gate; perfumed bog approach; practice waltz vs. mirror duel vs. chapel rite to resolve the Dowager
 - session-05.md — The Dowager’s Waltz Requiem (Grand Ball)
 - encounters.md — The Green Pilgrimage and more optional scenes
 

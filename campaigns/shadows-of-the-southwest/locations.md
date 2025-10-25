@@ -124,7 +124,7 @@ By Session (print quick-ref):
 - Key Features: Mire patches, leech swarms drawn by perfume, raven waymarkers
 - Hooks: Choose cart path or skiff; accept a skeletal footman’s “escort of bones” for a safer approach
 
-## [S04] Paravvon Gate of Perfumes (Border Reprise)
+## [S04] Parravon Gate of Perfumes (Border Reprise)
 - Overview: Bretonnian gatehouse staffed by perfumers’ guild and clergy
 - Key Features: Scent screens, hawk sigils, stigma stamps
 - Hooks: Pass via Etiquette/Charm, Bribery/Trade, or Morr token priority
