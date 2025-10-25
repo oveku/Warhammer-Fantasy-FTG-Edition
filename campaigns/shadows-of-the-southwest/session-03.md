@@ -122,6 +122,10 @@ Use this site if the party is routed back through formal customs during Session 
 - Tests: Etiquette (Average) to follow forms; Bribery (Hard) unless backed by Witch Hunter writs (Easy).
 - Quote: “Purity is a ledger. I balance it daily.”
 
+### Border NPCs (if customs used)
+- Captain Rémy Valoise — pragmatic gatekeeper who balances order vs. zeal; see full profile in `npcs.md` [S03].
+- Abbé Celestin d’Anjou — Traditionalist chaplain who administers purity rites and opposes “shadow aspect” heresies; see full profile in `npcs.md` [S01].
+
 ## Border Confrontation (set-piece, Social Combat optional)
 
 - Setup: The queue, the shrine, the mirror. Abbé Celestin arrives to “assist.”
@@ -202,6 +206,8 @@ If things go loud, the barge casts off:
 - Border Visa (used only if customs scene occurs)
   
 	<img src="./handouts/images/s03_border_visa.png" width="200" alt="Border Visa" />
+
+See also: Handout Prompt Pack for printing/exporting the visa and related materials — `campaigns/shadows-of-the-southwest/handouts/handouts_prompts.html`.
 
 ## Next: Session 04 — Château Malchance (Parravon)
 - With the coin/lot/ally in hand, the party approaches the Dowager and the mis-consecrated chapel.
