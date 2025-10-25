@@ -33,6 +33,12 @@ Core truth to reveal: The still is an anchor binding scent to memory via corpse 
 - Secrets: Knows where the binding coin is hidden; can steer to quiet coves if freed
 
 3) Raven-Choir Attendants (2–4)
+4) Corporal Hansi Unteruber (Basement Planner)
+- Role: Stirland militia corporal who admires adventurers; offers planning aid
+- Motivation: Live up to his uncle’s stories by helping “proper heroes” do a clean job
+- Secrets: Keeps patrol shift notes and a crude map of culverts; mother disapproves of “those sorts” visiting
+- Aid: Grants advantage (+10) to the first Stealth/Mechanics test during Reliquary Extraction if the Basement Briefing is completed
+
 - Role: Chanting assistants who keep time for rites
 - Motivation: Earn revelations and protection; many are addicted to the scent
 - Secrets: Their masks are lined with saint-glass slivers; one has stolen a vial labeled “Lot Ysabeau”
@@ -62,6 +68,9 @@ Core truth to reveal: The still is an anchor binding scent to memory via corpse 
 
 2) Perfume Run Continuation
 - Follow the Dock 3 chit from earlier; Mariette’s crate sits ready to be “blessed” into Eau de Morr
+
+3) Basement Briefing (with Corporal Hansi)
+- Hansi ushers the party into his mother’s basement. On an old door laid flat as a table, he sketches patrol routes, culverts, and the barge’s usual tie points. Gain a Planning Boon: +10 to one heist roll (Stealth/Mechanics) and a paper “guild seal” that might pass quick scrutiny.
 
 ---
 
@@ -93,6 +102,7 @@ Outcome of Debate:
 2) Reliquary Heist (Stealth/Skill)
 - During chanting, slip the still’s reliquary core free (Mechanics/Trade, Hard)
 - Reward: Reliquary Core (token used to downgrade anchor effects later)
+ - Planning Boon: If you completed the Basement Briefing, choose either to reduce the difficulty by one step OR to reroll a single failed pick/loosen attempt
 
 3) Sanctify the Deck (Ritual)
 - Consecrate the deck to Morr; costs incense/holy symbol and Willpower tests
@@ -136,6 +146,7 @@ If things go loud, the barge casts off:
 - Reliquary Core (token): single-use downgrade to an anchor effect
 - Vial of “Lot Ysabeau”: revive a flower/corpse for one sentence; risk 1 Corruption
 - Ferryman’s Passage: advantage on travel checks along the Stir to Parravon
+ - Hansi’s Patrol Schedule (handout): spend to negate one random patrol complication during the heist or chase
 
 ---
 

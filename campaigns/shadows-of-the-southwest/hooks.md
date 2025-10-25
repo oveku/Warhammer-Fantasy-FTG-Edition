@@ -46,7 +46,7 @@ By Session (print quick-ref):
 ## [S03] Perfumes and Prophecies (Eléonore’s Barge)
 - Setup: Follow Stir Dock 3 deliveries to a bone-barge where Eléonore, an unhinged occult perfumer, preaches the Lady’s “shadow aspect.”
 - Complications: Her Eau de Morr is corpse-derived; doctrine debate under a mirrored censer that falsifies omens; a ferryman bound by a resin-sealed coin begs release.
-- Outcomes: Claim/consecrate/destroy the portable perfume still (anchor); free the ferryman; gain a Reliquary Core token or a Lot Ysabeau vial; earn cryptic blessing or enmity.
+- Outcomes: Claim/consecrate/destroy the portable perfume still (anchor); free the ferryman; gain a Reliquary Core token or a Lot Ysabeau vial; earn cryptic blessing or enmity; optionally meet Corporal Hansi Unteruber for a basement planning session.
 - Leads to: Session 03; Locations: River Stir bone barge; Encounter: Perfume Run.
 
 ---

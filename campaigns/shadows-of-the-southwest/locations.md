@@ -75,7 +75,13 @@ By Session (print quick-ref):
 - Extraction Lab: Copper still hums; vials labeled “Lot Ysabeau,” “Lot Dowager,” “Lot Lucien”; corpse-derived absolutes identifiable with Investigation.
 - Tiller & Tithe: Resin-sealed coin binds the ferryman; cracking it frees him and grants discreet passage upriver.
 
-## [S01] Border Waystations (Reikland → Parravon)
+## [S03] Unteruber Basement (Stirland Backstreet)
+- Overview: Cramped cellar beneath a modest house; door-on-crates “war table,” patrol notes, and a crude culvert map
+- Key Features: Borrowed river-patrol schedule, stencil for guild seals, kettle of cabbage soup always on
+- NPCs: Corporal Hansi Unteruber; his skeptical mother upstairs
+- Hooks: Plan the Reliquary Extraction; select approach boons; calm the mother with polite assurances to keep the lights on
+
+## [S04] Border Waystations (Reikland → Parravon)
 - Overview: Customs houses, shrines, and suspicious knights-errant
 - Key Features: Smugglers’ tunnel; Morr’s waystone; mirror-lined reliquary
 - Encounters: Pilgrim caravan; Beastmen spoor; Bretonnian zealots testing “purity”
@@ -86,7 +92,7 @@ By Session (print quick-ref):
 - NPCs: Apparition of Ysabeau; perfumers’ guild interlopers; a priest of Morr investigating.
 - Hooks: Bottle a boon or bane; placate Ysabeau; decide whether to sanctify or destroy the still.
 
-### Session 1 Details — Brücke-Watch Waystation
+### Session 4 Details — Brücke-Watch Waystation
 - History: Raised on the site of an old mirror-stone; shrine to the Lady faces a neglected Morr stone.
 - Atmosphere: Incense haze, falcon cries, ledgers scratching, pilgrims in queue.
 - Features: Tiny "true self" mirrors; blue-stamped visas; holding room draped in blue.

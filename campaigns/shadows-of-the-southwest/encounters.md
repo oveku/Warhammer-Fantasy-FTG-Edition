@@ -8,7 +8,7 @@ By Session (print quick-ref):
 |---|---|
 | S01 | Mirror Bandits; Zealot Procession; Ossuary Echo; The Green Pilgrimage (optional) |
 | S02 | Midnight on the Nuln Docks; Golden Pike Floor Events; Bravos’ Code Duel; Ledger Heist at the Toll; Bell Jam Gambit; Side Door Stakeout |
-| S03 | Perfume Run (also usable in S01 as lead-in) |
+| S03 | Boarding in the Fog; Basement Briefing; Reliquary Extraction; Raven Sermon; River Chase; Perfume Run (also usable in S01 as lead-in) |
 | S04 | Falconer’s Trial |
 | S05 | The Waltzing Dead Cart (lead-in during S04) |
 
@@ -39,6 +39,23 @@ The bone-barge emerges from fog. Eléonore invites “witnesses” aboard if gre
 
 ### Reward
 - Reliquary Core (token to downgrade an anchor later) or a Lot Ysabeau vial (one-sentence revival; 1 Corruption risk).
+
+---
+
+## [S03] Basement Briefing (Planning Heist)
+- Where: Corporal Unteruber residence, mother’s basement (Stirland backstreet)
+- Tone: Earnest enthusiasm, cramped cellar clutter, ink-smudged maps
+
+### Setup
+Corporal Hansi Unteruber invites the party to “properly plan this like professionals.” He spreads patrol notes and a culvert map on a door turned into a table.
+
+### Play
+- Social: Reassure his mother that “this is all entirely legal.”
+- Planning: Choose two boons — Culvert Route (advantage on approach Stealth), Patrol Schedule (negate one random patrol), or Guild Seal (briefly lowers scrutiny at a distance).
+
+### Outcomes
+- Gain a Planning Boon for Reliquary Extraction (reduce difficulty one step or reroll one failed heist pick/loosen test).
+- If you insult Hansi or his mother, lose one chosen boon but keep the meeting.
 
 ---
 
