@@ -140,6 +140,38 @@ Victory Conditions:
 
 ---
 
+## Handouts & Props (optional)
+
+- Grand Ball Masquerade Invitation
+  
+	<img src="./handouts/images/s05_ball_invitation.png" width="200" alt="Grand Ball Invitation" />
+
+- Ballroom Social Rings / Seating Card
+  
+	<img src="./handouts/images/s05_social_rings_card.png" width="200" alt="Ballroom Social Rings" />
+
+- Orc Siege Banner (envoy standard)
+  
+	<img src="./handouts/images/s05_orc_banner.png" width="200" alt="Orc Siege Banner" />
+
+- Zealot Purge Proclamation
+  
+	<img src="./handouts/images/s05_zealot_proclamation.png" width="200" alt="Zealot Purge Proclamation" />
+
+- House Writ / Masked Regency Proclamation
+  
+	<img src="./handouts/images/s05_house_writ.png" width="200" alt="House Writ / Regency Proclamation" />
+
+- Anchor Quick-Ref Cards (set of 3)
+  
+	<img src="./handouts/images/s05_anchor_cards.png" width="200" alt="Anchor Quick-Ref Cards" />
+
+- Evacuation / Service Corridors Map
+  
+	<img src="./handouts/images/s05_corridors_map.png" width="200" alt="Service Corridors Map" />
+
+---
+
 ## Epilogue Hooks
 - Orc pilgrims seek a new shrine—or trail you for omens.
 - Wardens of the Hollow mark a PC without a reflection.
