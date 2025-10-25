@@ -13,10 +13,15 @@ import OpenAI from 'openai';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const ROOT = path.resolve(__dirname, '../../..');
+// From handouts/npcs/, four levels up is the repo root
+// npcs -> handouts -> shadows-of-the-southwest -> campaigns -> (repo root)
+const ROOT = path.resolve(__dirname, '../../../..');
 const HTML_FILE = path.resolve(__dirname, 'persons.html');
 const OUT_DIR = path.resolve(__dirname, '../images');
 
+// First try loading from current working directory (npm runs from repo root),
+// then explicitly from computed ROOT as a fallback.
+dotenv.config();
 dotenv.config({ path: path.join(ROOT, '.env') });
 
 const MODEL = process.env.OPENAI_IMAGE_MODEL || 'gpt-image-1';
