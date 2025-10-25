@@ -16,6 +16,11 @@ A Warhammer Fantasy FTG Edition campaign that begins in the Empire and draws the
 - locations.md — Key locations in Empire and Bretonnia
 - hooks.md — Adventure hooks and how to run them
 - session-01.md — The call to Bretonnia (first session plan)
+- session-02.md — The Lucky Midnight (Artois in Nuln)
+- session-03.md — Perfumes and Prophecies (Eléonore on the River Stir)
+- session-04.md — Château Malchance (Margot in Parravon)
+- session-05.md — The Dowager’s Waltz Requiem (Grand Ball)
+- encounters.md — The Green Pilgrimage and more optional scenes
 
 ## Campaign Premise
 A patron in the Empire requests the heroes travel to Bretonnia (Parravon) to investigate the decaying fortunes of House Le Satanreux and prevent their curse from spilling across borders. Rumors speak of haunted vineyards, luck-forged coins, and an undead matriarch hosting balls for the dead.

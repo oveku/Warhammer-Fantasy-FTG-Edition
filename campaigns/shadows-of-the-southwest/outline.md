@@ -2,6 +2,13 @@
 
 A border-crossing mystery from Altdorf to Parravon, descending into the cursed legacy of House Le Satanreux.
 
+## Five-Evening Session Plan (Overview)
+1) Session 01 — The Call to Bretonnia (Empire): Hooks, papers, and omens; optional Orc pilgrim encounter foreshadowing Le Deux.
+2) Session 02 — The Lucky Midnight (Nuln): Confront Artois in his gambling den; win/lose the coin; first family clash.
+3) Session 03 — Perfumes and Prophecies (River Stir): Track Eléonore’s bone barge or cult; debate, then duel/social-combat.
+4) Session 04 — Château Malchance (Parravon): Face Margot in the haunted château; exorcism puzzle and mirror duel.
+5) Session 05 — The Dowager’s Waltz Requiem (Parravon): Grand ball set-piece; meet Robert “Le Deux”; fate of Bretonnia at stake.
+
 ## Act I — The Call to Bretonnia (Empire → Parravon)
 - Inciting Request: A patron (witch hunter, noble factor, or Grey Order mentor) tasks the party with investigating the Satanreux line in Bretonnia. Payment in titles, absolution, or rare tomes.
 - Present 1–2 hooks from hooks.md (Bone Wine or Lucky Coin work best for travel impetus).
@@ -42,6 +49,6 @@ A border-crossing mystery from Altdorf to Parravon, descending into the cursed l
 - Guild of Vintners and Tasters: bone wine, bribery, and blackmail.
 
 ## Session Pacing
-- 6–10 sessions per act, with 1 major set piece each act.
+- 4–5 sessions total for this mini-arc; each session includes 1 key confrontation.
 - Rotate encounter types: investigation → social → exploration → combat.
 - Use fail-forward: wrong choices reveal truths at a price (corruption, scars, obligations).
