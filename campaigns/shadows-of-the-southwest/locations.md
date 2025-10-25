@@ -34,21 +34,6 @@ By Session (print quick-ref):
 	- Mirror smudge spells out N—U— (Nuln) at midnight.
 	- Receipt for “perfume glass” to Stir riverside dock → Eléonore’s barge.
 
-## [S01] Border Waystations (Reikland → Parravon)
-- Overview: Customs houses, shrines, and suspicious knights-errant
-- Key Features: Smugglers’ tunnel; Morr’s waystone; mirror-lined reliquary
-- Encounters: Pilgrim caravan; Beastmen spoor; Bretonnian zealots testing “purity”
-
-### Session 1 Details — Brücke-Watch Waystation
-- History: Raised on the site of an old mirror-stone; shrine to the Lady faces a neglected Morr stone.
-- Atmosphere: Incense haze, falcon cries, ledgers scratching, pilgrims in queue.
-- Features: Tiny "true self" mirrors; blue-stamped visas; holding room draped in blue.
-- Officials: Captain Rémy Valoise (pragmatic), Abbé Celestin d’Anjou (Traditionalist zeal).
-- Secrets & Clues:
-	- Official mirror blinks on delay for Satanreux-touched PCs.
-	- Confiscated coin lands heads on the hour → “midnight matters.”
-	- Guard tabard smells of lilies and grave-mud (Eau de Morr trace).
-
 ## [S01] Altdorf: The Candle Vault (Witch Hunter Safehouse)
 - Overview: Quiet briefing house for discreet operations; shelves of labeled candles (case names).
 - Key Features: Paths of non-creaking floorboards; lockbox of pre-signed passage letters; Morr token in velvet.
@@ -85,11 +70,26 @@ By Session (print quick-ref):
 - NPCs: Eléonore; two veiled attendants; a Morr-ordained ferryman unwillingly bound.
 - Hooks: Debate her “shadow aspect” doctrine (social combat); seize the still; rescue the ferryman.
 
-## [S03] Perfume Still of Ysabeau (Parravon Hinterlands)
+## [S04] Border Waystations (Reikland → Parravon)
+- Overview: Customs houses, shrines, and suspicious knights-errant
+- Key Features: Smugglers’ tunnel; Morr’s waystone; mirror-lined reliquary
+- Encounters: Pilgrim caravan; Beastmen spoor; Bretonnian zealots testing “purity”
+
+## [S04] Perfume Still of Ysabeau (Parravon Hinterlands)
 - Overview: A buried grotto where the family perfume still hums with ancestor-scent; flowers bloom and wither in breaths.
 - Key Features: Amber vials that warm near corpses; saint-glass windows that show no reflection; scent-wards.
 - NPCs: Apparition of Ysabeau; perfumers’ guild interlopers; a priest of Morr investigating.
 - Hooks: Bottle a boon or bane; placate Ysabeau; decide whether to sanctify or destroy the still.
+
+### Session 4 Details — Brücke-Watch Waystation
+- History: Raised on the site of an old mirror-stone; shrine to the Lady faces a neglected Morr stone.
+- Atmosphere: Incense haze, falcon cries, ledgers scratching, pilgrims in queue.
+- Features: Tiny "true self" mirrors; blue-stamped visas; holding room draped in blue.
+- Officials: Captain Rémy Valoise (pragmatic), Abbé Celestin d’Anjou (Traditionalist zeal).
+- Secrets & Clues:
+	- Official mirror blinks on delay for Satanreux-touched PCs.
+	- Confiscated coin lands heads on the hour → “midnight matters.”
+	- Guard tabard smells of lilies and grave-mud (Eau de Morr trace).
 
 ## [S04] Parravon Proper
 - Overview: Clifftop duchy of wind and hawks; nobles duel with words before swords
