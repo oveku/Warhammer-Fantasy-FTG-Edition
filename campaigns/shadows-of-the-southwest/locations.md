@@ -6,6 +6,15 @@
 - NPCs: Eléonore; Witch Hunter client; Guild fixer
 - Hooks: Buy/sabotage bone wine shipments; intercept a letter sealed with mirror-wax
 
+### Session 1 Details — Maison Satanreux Apothecary (Front)
+- History: Former spice house, bought after a winter plague; cellar retrofitted into a micro-ossuary still.
+- Layout & Atmosphere: Off-beat bell chime; dried bouquets; a counter mirror that lags by a heartbeat.
+- Features: Ledger written over an older spell; trapdoor to ribbed vial-shelves; raven roost in chimney cap.
+- Secrets & Clues:
+	- Vial with falcon sigil (Parravon vintners) → court influence.
+	- Mirror smudge spells out N—U— (Nuln) at midnight.
+	- Receipt for “perfume glass” to Stir riverside dock → Eléonore’s barge.
+
 ## River Stir: Eléonore’s Bone Barge (The Whisperer’s Lair)
 - Overview: A creaking barge stitched from coffin boards and ribs, drifting between Stirland towns under night fog.
 - Key Features: Raven cages, a portable perfume still (reliquary), mirrored censer for “shadow aspect” rites.
@@ -16,6 +25,22 @@
 - Overview: Customs houses, shrines, and suspicious knights-errant
 - Key Features: Smugglers’ tunnel; Morr’s waystone; mirror-lined reliquary
 - Encounters: Pilgrim caravan; Beastmen spoor; Bretonnian zealots testing “purity”
+
+### Session 1 Details — Brücke-Watch Waystation
+- History: Raised on the site of an old mirror-stone; shrine to the Lady faces a neglected Morr stone.
+- Atmosphere: Incense haze, falcon cries, ledgers scratching, pilgrims in queue.
+- Features: Tiny "true self" mirrors; blue-stamped visas; holding room draped in blue.
+- Officials: Captain Rémy Valoise (pragmatic), Abbé Celestin d’Anjou (Traditionalist zeal).
+- Secrets & Clues:
+	- Official mirror blinks on delay for Satanreux-touched PCs.
+	- Confiscated coin lands heads on the hour → “midnight matters.”
+	- Guard tabard smells of lilies and grave-mud (Eau de Morr trace).
+
+## Altdorf: The Candle Vault (Witch Hunter Safehouse)
+- Overview: Quiet briefing house for discreet operations; shelves of labeled candles (case names).
+- Key Features: Paths of non-creaking floorboards; lockbox of pre-signed passage letters; Morr token in velvet.
+- Hooks: Accept a conditional absolution; secure visas; choose between quiet investigation or public purge.
+- Secret: A candle labeled “Satanreux — Third Death” relights itself.
 
 ## Nuln: Sir Arto Brett’s Golden Pike (Artois’ Den)
 - Overview: A smoky gambling den on the waterfront where midnight resets the room’s luck like a bell toll.
@@ -38,6 +63,12 @@
 - Overview: Secret tomb complex built by Robert I for “future experiments”
 - Key Features: Lab-of-Morr; preserved echo of a sermon; Skaven-scratched graffiti
 - Danger: Recently looted; unstable walls; traps powered by bound luck
+
+## The Hollow Way (Funeral Path Shortcut)
+- Overview: Ancient funeral route whose knotted canopy darkens the road; ravens perch at even intervals.
+- Effect: Cuts travel time but invites omens and reflection anomalies.
+- Features: Cold spots; cracked hand-mirror in a stump whispers “Not yet” in a PC’s voice.
+- Risk: Low-level corruption checks on failed Willpower; increased omen frequency.
 
 ## Perfume Still of Ysabeau (Parravon Hinterlands)
 - Overview: A buried grotto where the family perfume still hums with ancestor-scent; flowers bloom and wither in breaths.
