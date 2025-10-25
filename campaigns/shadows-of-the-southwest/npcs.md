@@ -184,6 +184,8 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 **Motivation:** Set mislaid souls to rest; curb excesses of both courts
 **Secret:** Knows the chapel at Château Malchance was mis-consecrated
 
+## Session 03 NPCs and Allies [S03]
+
 ### Ferryman of the Stir (Eléonore’s Route)
 **Role:** Compelled boatman for the bone barge
 **Appearance:** Hollow cheeks, oar-scarred hands, river-mud boots
@@ -191,7 +193,7 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 **Motivation:** Be freed from service; warn travelers subtly
 **Secret:** Holds a delivery chit ledger linking Dock 3 to the barge
 
-### Raven-Choir Attendants (2–4) [S03]
+### Raven-Choir Attendants (2–4)
 **Role:** Chanting assistants who keep ritual time; enforce etiquette
 **Appearance:** Black half-masks lined with saint-glass slivers; inked verses on forearms
 **Personality:** Breathless devotion; easily rattled when rites break tempo

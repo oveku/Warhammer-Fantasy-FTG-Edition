@@ -264,22 +264,8 @@ Visitors are “sniffed” for perfumed corruption. A perfumers’ guild agent a
 ### Consequences
 - Gain Chapel Reliquary Ash; modify Session 05 reflection hazards and social sway.
 
-## Midnight on the Nuln Docks (Foreshadow Artois)
-- Where: Nuln waterfront, outside Sir Arto Brett’s Golden Pike
-- Tone: Noir bustle, bells toll, luck turns on the hour
-
-### Setup
-Dockhands argue over a crate that “won’t weigh right” until the bell tolls midnight. A coin keeps landing heads until the stroke, then tails—always.
-
-### Play
-- Social: Calm a brewing brawl; persuade a Witch Hunter widow to talk about the Pike.
-- Skill: Catch the coin in midair at the stroke (Dex test) to feel a pulse of cold memory.
-
-### Clues & Outcomes
-- Clue: “Only inside the Pike does the midnight hold.”
-- Outcome: Earn free entry to the Pike next session or a marker from a dock boss.
-
----
+<!-- Removed duplicate unlabeled Midnight on the Docks (use [S02] version below) -->
+<!-- duplicate unlabeled Midnight on the Docks removed; retain [S02] version below -->
 
 ## [S05] Grand Ball Social Rounds (Social)
 - Where: Château Malchance ballroom, salons, and balconies
