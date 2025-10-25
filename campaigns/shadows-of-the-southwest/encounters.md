@@ -8,7 +8,7 @@ By Session (print quick-ref):
 |---|---|
 | S01 | Mirror Bandits; Zealot Procession; Ossuary Echo; The Green Pilgrimage (optional) |
 | S02 | Midnight on the Nuln Docks; Golden Pike Floor Events; Bravos’ Code Duel; Ledger Heist at the Toll; Bell Jam Gambit; Side Door Stakeout |
-| S03 | Boarding in the Fog; Basement Briefing; Reliquary Extraction; Raven Sermon; River Chase; Perfume Run (also usable in S01 as lead-in) |
+| S03 | Boarding in the Fog; Basement Briefing; Reliquary Extraction; Raven Sermon; River Chase; Customs & Border Confrontation (optional); Perfume Run (also usable in S01 as lead-in) |
 | S04 | Border Reprise (Parravon Gate); Perfumed Bog Hazards; Practice Waltz; Mirror Hall Duel; Chapel Sanctification; Falconer’s Trial |
 | S05 | Grand Ball Social Rounds; Waltz of Three Deaths; The Shatter; Orc Siege; Zealot Purge; Anchor Interventions; Evacuation |
 
@@ -104,7 +104,7 @@ Kaspar “Rotgut” Kessel and his crew block the road with a toppled cart and s
 - Pouch of mirror-polish that causes a 1-second reflection delay when applied.
 
 ### Consequences
-- If you kill needlessly, Valoise hears; −1 with Border Officials.
+- If you kill needlessly, border officials hear; −1 with Border Officials.
 - If you capture Kaspar, he names his employer as a “guildman with a falcon pin.”
 
 ---

@@ -3,9 +3,9 @@
 This file is tagged by session for quick reference. Tags like [S01] indicate the primary session where the location is used.
 
 Locations by session:
-- [S01] Altdorf: The Apothecary Front; Border Waystations (Brücke-Watch); Altdorf: The Candle Vault; The Hollow Way
+- [S01] Altdorf: The Apothecary Front; Altdorf: The Candle Vault; The Hollow Way
 - [S02] Nuln: Sir Arto Brett’s Golden Pike
-- [S03] River Stir: Eléonore’s Bone Barge; Perfume Still of Ysabeau
+- [S03] River Stir: Eléonore’s Bone Barge; Brücke-Watch Waystation (customs, optional); Perfume Still of Ysabeau
 - [S04] Parravon Proper; Château Malchance; The Ossuary of Ravennes
 - [S05] Château Malchance (Grand Ball)
 
@@ -13,9 +13,9 @@ By Session (print quick-ref):
 
 | Session | Locations |
 |---|---|
-| S01 | Altdorf: Apothecary Front; Border Waystations (Brücke-Watch); Altdorf: Candle Vault; The Hollow Way; “Da Burnt Camp” (optional) |
+| S01 | Altdorf: Apothecary Front; Altdorf: Candle Vault; The Hollow Way; “Da Burnt Camp” (optional) |
 | S02 | Nuln: Sir Arto Brett’s Golden Pike (interior details) |
-| S03 | River Stir: Eléonore’s Bone Barge; Perfume Still of Ysabeau |
+| S03 | River Stir: Eléonore’s Bone Barge; Brücke-Watch Waystation (customs, optional); Perfume Still of Ysabeau |
 | S04 | Parravon Proper; Château Malchance; The Ossuary of Ravennes |
 | S05 | Château Malchance (Grand Ball usage) |
 
@@ -81,7 +81,7 @@ By Session (print quick-ref):
 - NPCs: Corporal Hansi Unteruber; his skeptical mother upstairs
 - Hooks: Plan the Reliquary Extraction; select approach boons; calm the mother with polite assurances to keep the lights on
 
-## [S04] Border Waystations (Reikland → Parravon)
+## [S03] Brücke-Watch Waystation (Reikland → Parravon)
 - Overview: Customs houses, shrines, and suspicious knights-errant
 - Key Features: Smugglers’ tunnel; Morr’s waystone; mirror-lined reliquary
 - Encounters: Pilgrim caravan; Beastmen spoor; Bretonnian zealots testing “purity”
@@ -92,7 +92,7 @@ By Session (print quick-ref):
 - NPCs: Apparition of Ysabeau; perfumers’ guild interlopers; a priest of Morr investigating.
 - Hooks: Bottle a boon or bane; placate Ysabeau; decide whether to sanctify or destroy the still.
 
-### Session 4 Details — Brücke-Watch Waystation
+### Session 3 Details — Brücke-Watch Waystation
 - History: Raised on the site of an old mirror-stone; shrine to the Lady faces a neglected Morr stone.
 - Atmosphere: Incense haze, falcon cries, ledgers scratching, pilgrims in queue.
 - Features: Tiny "true self" mirrors; blue-stamped visas; holding room draped in blue.

@@ -9,6 +9,10 @@ Primary beats:
 
 ---
 
+Quick links: [Background](#deep-background-for-the-gm) • [Key NPCs](#key-npcs-session-03-focus) • [Locations](#locations-barge-interior) • [Opening](#opening-choose-or-chain) • [Social Combat](#social-combat--doctrine-vs-rite) • [Brücke-Watch](#optional-location--brücke-watch-waystation-border) • [Customs](#customs-and-passage-if-used) • [Border Confrontation](#border-confrontation-set-piece-social-combat-optional) • [Paths](#confrontation-paths-choose-12) • [River Chase](#optional-set-piece--river-chase) • [Outcomes](#outcomes--branches) • [Revelations](#revelations) • [Rewards](#rewards) • [Handouts](#handouts--props-optional)
+
+---
+
 ## Deep Background (for the GM)
 
 - Eléonore is an unhinged, zealously devoted cult leader who believes the Lady has a “shadow aspect” that sanctifies what the living refuse to admit: that love, memory, and “luck” can be extracted from the dead. Her Eau de Morr is distilled by macerating funerary oils, bone dust, and shavings of saint-glass with a secret “absolute” rendered from harvested corpse-tallow. The process is performed as a rite, guided by a mirrored censer that “aligns” reflections of the soul.
@@ -48,6 +52,9 @@ Core truth to reveal: The still is an anchor binding scent to memory via corpse 
 
 ## Locations (Barge Interior)
 
+  
+	<img src="./handouts/images/s03_bone_barge_plan.png" width="200" alt="Bone Barge Plan" />
+
 1) Deck Chapel
 - Atmosphere: Fog-lanterns; raven perches; mirrored censer trailing perfumed smoke
 - Mechanics: If censer is intact, omens tilt toward Eléonore’s doctrine (−10 to opposing Theology tests)
@@ -69,9 +76,13 @@ Core truth to reveal: The still is an anchor binding scent to memory via corpse 
 
 2) Perfume Run Continuation
 - Follow the Dock 3 chit from earlier; Mariette’s crate sits ready to be “blessed” into Eau de Morr
+  
+	<img src="./handouts/images/s03_ferryman_chit.png" width="200" alt="Ferryman’s Delivery Chit" />
 
 3) Basement Briefing (with Corporal Hansi)
 - Hansi ushers the party into his mother’s basement. On an old door laid flat as a table, he sketches patrol routes, culverts, and the barge’s usual tie points. Gain a Planning Boon: +10 to one heist roll (Stealth/Mechanics) and a paper “guild seal” that might pass quick scrutiny.
+  
+	<img src="./handouts/images/s03_guild_seal_stencil.png" width="200" alt="Guild Seal Stencil" />
 
 ---
 
