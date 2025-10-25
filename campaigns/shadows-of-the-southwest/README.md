@@ -1,5 +1,7 @@
 # Shadows of the Southwest
 
+![Shadows of the Southwest cover](./ChatGPT%20Image%2025.%20okt.%202025,%2019_45_34.png)
+
 A Warhammer Fantasy FTG Edition campaign that begins in the Empire and draws the heroes toward Bretonnia, into the cursed legacy of House Le Satanreux of Parravon.
 
 - Tone: Grimdark investigation, occult inheritance, political intrigue
