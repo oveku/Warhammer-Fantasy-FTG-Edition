@@ -190,11 +190,14 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 
 ## Handouts & Props (optional)
 
-- Apothecary Invoice: “Maison Satanreux — Eau de Morr, Lot ‘Ysabeau’ — delivery to Stir Dock 3.”
+  
+	<img src="./handouts/images/s01_apothecary_invoice.png" width="200" alt="Apothecary Invoice" />
 - Invitation Scrap: “Celebrate Robert’s third death — dress to reflect.”
-- Border Writ: A blue stamp with a hawk in profile; ink smells like lilies.
+  
+	<img src="./handouts/images/s01_invitation_scrap.png" width="200" alt="Invitation Scrap" />
 
----
+  
+	<img src="./handouts/images/s01_border_visa.png" width="200" alt="Border Visa" />
 
 ## GM Notes & Pacing
 

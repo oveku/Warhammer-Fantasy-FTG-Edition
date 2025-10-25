@@ -144,8 +144,16 @@ Complications:
 ## Handouts & Props (optional)
 
 - Golden Pike Marker: “Luck smiles within these doors—until the bell.”
+  
+	<img src="./handouts/images/s02_pike_token.png" width="200" alt="Golden Pike Marker" />
+
 - Ledger Fragment: Numbers that become letters at XII; contains “mirror-binding” notation
+  
+	<img src="./handouts/images/s02_ledger_fragment.png" width="200" alt="Ledger Fragment" />
+
 - Side Door Key: A key wrapped in black lace; faint lily scent
+  
+	<img src="./handouts/images/s02_side_door_keytag.png" width="200" alt="Side Door Key Tag" />
 
 ---
 

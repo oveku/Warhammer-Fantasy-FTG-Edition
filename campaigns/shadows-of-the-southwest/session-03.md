@@ -153,11 +153,12 @@ If things go loud, the barge casts off:
 
 ## Handouts & Props (optional)
 
-- Lot Labels: “Lot Ysabeau,” “Lot Dowager,” “Lot Lucien”
+  
+	<img src="./handouts/images/s03_eau_de_morr_label.png" width="200" alt="Eau de Morr – Lot Ysabeau" />
 - Sermon Sheet: A meter of rhyme praising “shadow grace” with mirror sigils
-- Resin Coin Sketch: Diagram marking the hidden binding coin under the tiller
 
----
+  
+	<img src="./handouts/images/s03_resin_coin_diagram.png" width="200" alt="Resin Coin Diagram" />
 
 ## Next: Session 04 — Château Malchance (Parravon)
 - With the coin/lot/ally in hand, the party approaches the Dowager and the mis-consecrated chapel.

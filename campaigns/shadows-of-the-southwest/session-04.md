@@ -112,8 +112,16 @@ Abbé Celestin (Return, Optional)
 
 ## Handouts & Props (optional)
 - Invitation to “Practice Waltz” with marginalia in old Bretonnian.
+  
+	<img src="./handouts/images/s04_waltz_invitation.png" width="200" alt="Practice Waltz Invitation" />
+
 - Gate Visa bearing a hawk sigil scented faintly of lilies.
+  
+	<img src="./handouts/images/s04_gate_pass.png" width="200" alt="Parravon Gate Pass" />
+
 - Sketch of vow-lines crisscrossing the chapel floor.
+  
+	<img src="./handouts/images/s04_chapel_vowlines.png" width="200" alt="Chapel Vow Lines" />
 
 ---
 
