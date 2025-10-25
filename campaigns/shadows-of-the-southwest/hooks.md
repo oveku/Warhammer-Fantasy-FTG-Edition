@@ -52,9 +52,9 @@ By Session (print quick-ref):
 ---
 
 ## [S04] The Dowager of Dust (Château Malchance)
-- Setup: A perfumed invitation arrives: “Celebrate Robert’s third death.” The château’s ballroom hosts a spectral waltz.
-- Complications: Etiquette is law; mirror hall reflects delayed actions; chapel was mis-consecrated to Morr.
-- Outcomes: Lay Margot to rest, bargain for lineage secrets, or bind her as an ally for the grand ball.
+- Setup: A perfumed invitation arrives: “Celebrate Robert’s third death.” Cross the Bretonnian gate, traverse the perfumed bog, and enter the half-sunken château.
+- Complications: Etiquette is law; the Mirror Hall echoes actions on delay; the chapel was mis-consecrated to Morr.
+- Outcomes: Lay Margot to rest, bargain for lineage secrets, or bind her as an ally for the grand ball; earn Mirror Shard and Vow-Token boons; adjust reflection hazards at the finale.
 - Leads to: Session 04; Locations: Château Malchance; Encounter: The Waltzing Dead Cart.
 
 ---

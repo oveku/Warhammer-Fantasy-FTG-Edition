@@ -9,7 +9,7 @@ By Session (print quick-ref):
 | S01 | Mirror Bandits; Zealot Procession; Ossuary Echo; The Green Pilgrimage (optional) |
 | S02 | Midnight on the Nuln Docks; Golden Pike Floor Events; Bravos’ Code Duel; Ledger Heist at the Toll; Bell Jam Gambit; Side Door Stakeout |
 | S03 | Boarding in the Fog; Basement Briefing; Reliquary Extraction; Raven Sermon; River Chase; Perfume Run (also usable in S01 as lead-in) |
-| S04 | Falconer’s Trial |
+| S04 | Border Reprise (Parravon Gate); Perfumed Bog Hazards; Practice Waltz; Mirror Hall Duel; Chapel Sanctification; Falconer’s Trial |
 | S05 | The Waltzing Dead Cart (lead-in during S04) |
 
 ---
@@ -202,6 +202,67 @@ The Master Falconer tests foreigners with three proofs: Wind, Reflection, and Me
 - Note: “Coin must toll midnight within Pike walls” (points to Nuln den).
 
 ---
+
+## [S04] Border Reprise — Paravvon Gate of Perfumes (Social/Skill)
+- Where: Bretonnian gatehouse outside Parravon
+- Tone: Courtly suspicion with perfumers and clergy
+
+### Setup
+Visitors are “sniffed” for perfumed corruption. A perfumers’ guild agent and a chaplain of the Lady share the lectern.
+
+### Play
+- Choose a route: Etiquette/Charm to pass clean; Bribery/Trade to grease the ledger; or flash a Morr token for doctrinal priority.
+
+### Outcomes
+- Visa stamp; stigma if you fail decorum; +1 Heat with Traditionalists if you flaunt Orc tokens.
+
+---
+
+## [S04] Perfumed Bog Hazards (Exploration)
+- Where: Sunken road to Château Malchance
+- Tone: Sweet rot; willows over black water
+
+### Obstacles
+- Mire checks for carts; leech swarms attracted by perfume; false lights in fog.
+
+### Clues
+- Raven markers point the correct path; a waystone of Morr grants +10 to the next navigation test if invoked.
+
+---
+
+## [S04] Practice Waltz (Social/Puzzle)
+- Where: Château Malchance ballroom
+- Tone: Courtly dread; unseen strings
+
+### Play
+- Three dances as a formal social duel. Each failed step inflicts a spectral slap (minor WP or social penalty).
+
+### Outcomes
+- Gain or lose favor with Margot; earn a Vow-Token on a flawless set.
+
+---
+
+## [S04] Mirror Hall Duel (Skirmish/Timing)
+- Where: Mirror Hall
+- Tone: Echoed motion; delayed reflections
+
+### Rule of Delay
+- Actions echo one round later. Use timing to bait reflections or to be in two “places” at once.
+
+### Reward
+- Mirror Shard Boon (cancel one reflection-based effect in Session 05).
+
+---
+
+## [S04] Chapel Sanctification (Ritual)
+- Where: Mis-consecrated chapel
+- Tone: Whispered reliquary hum; incense and lilies
+
+### Play
+- Sanctify to Morr (free or weaken Margot), redirect to the Lady’s shadow (empower Margot), or dismantle relics (free wills, anger clergy).
+
+### Consequences
+- Gain Chapel Reliquary Ash; modify Session 05 reflection hazards and social sway.
 
 ## Midnight on the Nuln Docks (Foreshadow Artois)
 - Where: Nuln waterfront, outside Sir Arto Brett’s Golden Pike

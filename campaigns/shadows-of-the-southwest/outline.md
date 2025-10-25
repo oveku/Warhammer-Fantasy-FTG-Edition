@@ -7,6 +7,9 @@ A border-crossing mystery from Altdorf to Parravon, descending into the cursed l
 2) Session 02 — The Lucky Midnight (Nuln): Confront Artois in his gambling den; win/lose the coin; first family clash.
 3) Session 03 — Perfumes and Prophecies (River Stir): Track Eléonore’s bone barge or cult; debate, then duel/social-combat.
 4) Session 04 — Château Malchance (Parravon): Face Margot in the haunted château; exorcism puzzle and mirror duel.
+  - Travel: Cross the Paravvon Gate (perfumers + clergy), traverse perfumed bog hazards
+  - Arrival: Explore Mirror Hall (delayed reflections), Wardrobes of Luck, Chapel of the Wrong God
+  - Finale: Choose Practice Waltz (social/puzzle), Mirror Duel (timing skirmish), or Chapel Rite (ritual)
 5) Session 05 — The Dowager’s Waltz Requiem (Parravon): Grand ball set-piece; meet Robert “Le Deux”; fate of Bretonnia at stake.
 
 ## Act I — The Call to Bretonnia (Empire → Parravon)

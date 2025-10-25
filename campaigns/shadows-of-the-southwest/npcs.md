@@ -36,6 +36,19 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 - Secret: His “lucky coin” is Robert’s phylactery; ledger is a spellbook
 
 ## Margot “The Dowager of Dust” [S04→S05]
+### Skeletal Major-Domo of Malchance [S04]
+**Role:** Enforces etiquette and ceremony within Château Malchance; gatekeeper to Margot’s favor
+**Appearance:** Polished skull, immaculate tailcoat stitched to bone; silver nameplate worn smooth
+**Personality:** Courteous, exacting, faintly amused by the living’s missteps
+**Motivation:** Maintain perfect ceremony; see the practice waltz completed properly
+**Secret:** Knows the chapel’s vow-lines and will hint at them if addressed with flawless titles
+
+### Perfume Inspector Clairette de Lys [S04]
+**Role:** Perfumers’ guild agent at the Paravvon Gate; screens travelers for “perfumed corruption”
+**Appearance:** Blue sash, hawk-sigil stamp, scent-cones and blotters at her belt
+**Personality:** Brisk, professional, enjoys catching fakes
+**Motivation:** Keep scandal out of Parravon; earn guild favor for accurate detections
+**Secret:** Mildly allergic—hawks sneeze when Eau de Morr is near; she masks it as “a sign”
 - Role: Undead matriarch; courtly terror
 - Appearance: Decayed elegance; skeletal servants with perfect etiquette
 - Personality: Cutting, nostalgic, exacting host

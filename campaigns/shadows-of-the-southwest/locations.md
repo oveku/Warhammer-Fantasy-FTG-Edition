@@ -113,6 +113,22 @@ By Session (print quick-ref):
 - Secrets: Dowager bound to the chapel; wardrobes of ancestors contain tokens of luck
 - Encounters: Social combat at a spectral ball; exorcism through dance and vows
 
+### Session 4 Details — Interiors
+- Mirror Hall: Delayed reflections; “shadow actions” echo on the next round.
+- Practice Ballroom: Three-dance social duel; etiquette vows bind or free favors.
+- Chapel of the Wrong God: Mis-consecration chains Margot; sanctify/redirect/dismantle options.
+- Wardrobes of Luck: Ancestor tokens grant small boons and quirks until sunset; overuse invites a reflection’s claim.
+
+## [S04] Perfumed Bog Approaches
+- Overview: Sunken road through willows; lily-scent over grave-water
+- Key Features: Mire patches, leech swarms drawn by perfume, raven waymarkers
+- Hooks: Choose cart path or skiff; accept a skeletal footman’s “escort of bones” for a safer approach
+
+## [S04] Paravvon Gate of Perfumes (Border Reprise)
+- Overview: Bretonnian gatehouse staffed by perfumers’ guild and clergy
+- Key Features: Scent screens, hawk sigils, stigma stamps
+- Hooks: Pass via Etiquette/Charm, Bribery/Trade, or Morr token priority
+
 ## [S04] The Ossuary of Ravennes
 - Overview: Secret tomb complex built by Robert I for “future experiments”
 - Key Features: Lab-of-Morr; preserved echo of a sermon; Skaven-scratched graffiti
