@@ -33,15 +33,16 @@ Core truth to reveal: The still is an anchor binding scent to memory via corpse 
 - Secrets: Knows where the binding coin is hidden; can steer to quiet coves if freed
 
 3) Raven-Choir Attendants (2–4)
+- Role: Chanting assistants who keep time for rites
+- Motivation: Earn revelations and protection; many are addicted to the scent
+- Secrets: Their masks are lined with saint-glass slivers; one has stolen a vial labeled “Lot Ysabeau”
+
 4) Corporal Hansi Unteruber (Basement Planner)
 - Role: Stirland militia corporal who admires adventurers; offers planning aid
 - Motivation: Live up to his uncle’s stories by helping “proper heroes” do a clean job
 - Secrets: Keeps patrol shift notes and a crude map of culverts; mother disapproves of “those sorts” visiting
 - Aid: Grants advantage (+10) to the first Stealth/Mechanics test during Reliquary Extraction if the Basement Briefing is completed
 
-- Role: Chanting assistants who keep time for rites
-- Motivation: Earn revelations and protection; many are addicted to the scent
-- Secrets: Their masks are lined with saint-glass slivers; one has stolen a vial labeled “Lot Ysabeau”
 
 ---
 

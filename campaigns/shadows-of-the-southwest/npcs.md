@@ -43,19 +43,19 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 - Secret: Bound to the estate by a mis-consecrated chapel; wants a proper waltz
 
 ## Ysabeau “The Perfumed” (Ancestor Spirit) [S03]
-### Corporal Hansi Unteruber [S03]
-**Role:** Stirland militia corporal and eager helper; offers planning help for the barge heist
-**Appearance:** Too-large corporal’s coat, crooked badge, ink-smudged fingers; faint smell of damp cellar and boiled cabbage
-**Personality:** Earnest, overeager, proud that “my uncle once helped real adventurers”; craves a chance to be useful
-**Motivation:** Prove himself by assisting heroes like his uncle did; keep the river quiet without angering anyone important
-**Secrets:** “Borrowed” river-patrol shift notes and a stencil for guild seals; knows a culvert route to the moorings behind the barge
-**Offers:** Invites the party to his mother’s basement to plan a stealth approach; provides minor hints to Reliquary Extraction (tool lists, timings)
-
 - Role: Perfume-bound spirit; boon or bane
 - Appearance: A scent that arrives before the apparition; flowers bloom and wither
 - Personality: Coy, cruel, intoxicating
 - Motivation: Be remembered through scent and scandal
 - Secret: The perfume still is a reliquary; overuse calls something worse
+
+## Corporal Hansi Unteruber [S03]
+- Role: Stirland militia corporal and eager helper; offers planning help for the barge heist
+- Appearance: Too-large corporal’s coat, crooked badge, ink-smudged fingers; faint smell of damp cellar and boiled cabbage
+- Personality: Earnest, overeager, proud that “my uncle once helped real adventurers”; craves a chance to be useful
+- Motivation: Prove himself by assisting heroes like his uncle did; keep the river quiet without angering anyone important
+- Secrets: “Borrowed” river-patrol shift notes and a stencil for guild seals; knows a culvert route to the moorings behind the barge
+- Offers: Invites the party to "his" (his mother’s) basement to plan a stealth approach; provides minor hints to Reliquary Extraction (tool lists, timings)
 
 ## Luc le Rôdeur (Rumored Bastard) [S04→S05]
 - Role: Nosebleed minstrel; wandering herald of misfortune
