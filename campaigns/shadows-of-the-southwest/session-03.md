@@ -123,8 +123,13 @@ Use this site if the party is routed back through formal customs during Session 
 - Quote: “Purity is a ledger. I balance it daily.”
 
 ### Border NPCs (if customs used)
-- Captain Rémy Valoise — pragmatic gatekeeper who balances order vs. zeal; see full profile in `npcs.md` [S03].
-- Abbé Celestin d’Anjou — Traditionalist chaplain who administers purity rites and opposes “shadow aspect” heresies; see full profile in `npcs.md` [S01].
+- Captain Rémy Valoise — pragmatic gatekeeper who balances order vs. zeal; see full profile in [npcs.md](./npcs.md) [S03].
+  
+	<img src="./handouts/npcs/npc_remy_valoise.png" width="200" alt="Captain Rémy Valoise" />
+
+- Abbé Celestin d’Anjou — Traditionalist chaplain who administers purity rites and opposes “shadow aspect” heresies; see full profile in [npcs.md](./npcs.md) [S01].
+  
+	<img src="./handouts/npcs/npc_abbe_celestin.png" width="200" alt="Abbé Celestin d’Anjou" />
 
 ## Border Confrontation (set-piece, Social Combat optional)
 
