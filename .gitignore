@@ -1,0 +1,66 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+~$*
+
+# Personal Notes (uncomment if you want to keep personal notes private)
+# personal-notes/
+# *-private.md
+
+# Campaign-specific (uncomment to exclude sensitive campaign info)
+# player-secrets/
+# gm-notes-private/
+
+# Compiled or Generated Files
+*.pdf
+*.epub
+# Uncomment below if you generate PDFs but don't want them in repo
+# rules/*.pdf
+# campaigns/*.pdf
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Node modules (if using any JavaScript tools)
+node_modules/
+
+# Python (if using any Python tools)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Mac
+.AppleDouble
+.LSOverride
