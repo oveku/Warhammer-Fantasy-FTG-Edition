@@ -1,6 +1,6 @@
 # Adventure Hooks — Shadows of the Southwest
 
-These hooks are aligned with Sessions 01–05 and keep the campaign in sync. Each lists setup, complications, outcomes, and which session(s) it flows into.
+This file is organized by session. Tags like [S01] indicate the primary session. Side hooks are evergreen and note where they sync back in.
 
 ---
 
@@ -25,10 +25,10 @@ These hooks are aligned with Sessions 01–05 and keep the campaign in sync. Eac
 ---
 
 ## [S02] The Lucky Midnight (Golden Pike, Nuln)
-- Setup: Artois’ den, Sir Arto Brett’s Golden Pike, runs on a midnight rule: luck tilts until the bell tolls—only inside the Pike.
-- Complications: Witch Hunter widows haunt the tables; the backroom ledger is Robert’s overwritten spellbook; bravos duel by custom (nonlethal until humiliated).
-- Outcomes: Win/steal/neutralize the Lucky Coin; earn or lose Artois as a contact; secure letters of passage via favors.
-- Leads to: Session 02; Locations: Nuln waterfront; Encounter: Midnight on the Nuln Docks.
+- Setup: Artois’ den, Sir Arto Brett’s Golden Pike, runs on a midnight rule: a bell-ward tilts luck to the house before XII, then resets at the toll.
+- Complications: Witch Hunter widows seek a turn of luck; bravos enforce nonlethal duels; the pit boss “Master of Midnight” times the floor; the ledger in back hums at XII.
+- Outcomes: Seize/sanctify/leave the Lucky Coin; gain visas/funds; secure Widow’s Key, Ledger Page, or draw heat from Pike security.
+- Leads to: Session 02; Locations: Nuln waterfront & Golden Pike; Encounters: Midnight on the Docks, Golden Pike Floor Events, Ledger Heist, Bravos’ Code Duel.
 
 ---
 

@@ -1,57 +1,59 @@
 # Major NPCs — Shadows of the Southwest
 
+This file is organized with session tags for quick prep. Tags like [S02] indicate the primary session where the NPC features.
+
 Use FTG format for quick reference. Provide stats when needed during prep.
 
-## Robert Le Satanreux II — “Le Deux,” The Burnt Prophet (Undead?)
+## Robert Le Satanreux II — “Le Deux,” The Burnt Prophet (Undead?) [S05]
 - Role: Cursed scion; pivot between redemption and ruin
 - Appearance: Half-melted face, pallid skin, scent of herbs and charcoal
 - Personality: Wry, fatalistic, oddly courteous; laughs at omens
 - Motivation: Prove luck can be mastered, not suffered
 - Secret: His reflection hunts him; the coin anchors more than memories
 
-## Eléonore “The Whisperer”
+## Eléonore “The Whisperer” [S03]
 - Role: Occult apothecary; prophetess of the Lady’s “shadow aspect”
 - Appearance: Veiled; raven-feather shawl; bone bangles that clack in iambic rhyme
 - Personality: Serene, unsettling; answers questions you didn’t ask
 - Motivation: Establish a legitimate cult; be right about the Lady
 - Secret: Has Morr’s attention; her prophecies attract the dead
 
-## Artois “The Brave”
+## Artois “The Brave” [S02]
 - Role: Gambler and accidental lynchpin
 - Appearance: Flashy medals, wine-stained smile, perpetually lucky until midnight
 - Personality: Charming cowardice; opportunist with a heart
 - Motivation: Keep the luck flowing, keep the danger away
 - Secret: His “lucky coin” is Robert’s phylactery; ledger is a spellbook
 
-## Margot “The Dowager of Dust”
+## Margot “The Dowager of Dust” [S04→S05]
 - Role: Undead matriarch; courtly terror
 - Appearance: Decayed elegance; skeletal servants with perfect etiquette
 - Personality: Cutting, nostalgic, exacting host
 - Motivation: Preserve the family—dead or alive
 - Secret: Bound to the estate by a mis-consecrated chapel; wants a proper waltz
 
-## Ysabeau “The Perfumed” (Ancestor Spirit)
+## Ysabeau “The Perfumed” (Ancestor Spirit) [S03]
 - Role: Perfume-bound spirit; boon or bane
 - Appearance: A scent that arrives before the apparition; flowers bloom and wither
 - Personality: Coy, cruel, intoxicating
 - Motivation: Be remembered through scent and scandal
 - Secret: The perfume still is a reliquary; overuse calls something worse
 
-## Luc le Rôdeur (Rumored Bastard)
+## Luc le Rôdeur (Rumored Bastard) [S04→S05]
 - Role: Nosebleed minstrel; wandering herald of misfortune
 - Appearance: Handsome, harried; blood-stained kerchief
 - Personality: Romantic fatalist
 - Motivation: Find a father or a legend worth singing
 - Secret: Songs can open mirrors; he doesn’t know how to stop
 
-## Supporting Cast
+## Supporting Cast (Evergreen)
 - Parravon Chaplain of the Lady (Traditionalist): smile like a blade; hates foreign meddling
 - Guild Taster (Vintners’ Guild): nose insured for a fortune; addicted to bone wine
 - Orc Pilgrim Chieftain: reveres the Burnt Prophet; seeks an omen of Waaagh!
 
 ---
 
-## Session 01 NPCs and Recurring Contacts
+## Session 01 NPCs and Recurring Contacts [S01]
 
 ### Witch Hunter Captain Hildegard Falk
 **Role:** Patron or rival; issues quiet commission and visas
@@ -136,3 +138,28 @@ Use FTG format for quick reference. Provide stats when needed during prep.
 **Personality:** Practical, bribe-friendly, caste-conscious
 **Motivation:** Keep the docks moving; avoid Witch Hunter attention
 **Secret:** Saw the coin “change sides” at midnight; won’t speak without a marker
+
+---
+
+## Session 02 — Golden Pike Additions [S02]
+
+### “Master of Midnight” — Pit Boss
+**Role:** Times the games to the bell; controls floor access
+**Appearance:** Tall, spare, gloved; carries a cracked metronome
+**Personality:** Precise, humorless, surprisingly polite
+**Motivation:** Keep the house profitable and unburned
+**Secret:** Knows a crawlspace to the bell rope; will sell the route dearly
+
+### Johan Pech — Nervous Accountant
+**Role:** House numbers man; luck clings to him in unsettling ways
+**Appearance:** Pallid, ink-stained, abacus beads like a rosary
+**Personality:** Timid, jumpy, desperate to please
+**Motivation:** Survive the midnight shift; balance books that refuse to tally
+**Secret:** Knows the ledger’s hiding place; can identify when the “hum” begins
+
+### Signet “Velveteen” Sarto — Bravos’ Captain
+**Role:** Enforces nonlethal duel customs on the Pike’s strip
+**Appearance:** Velvet half-cape; scar that resembles a club suit; immaculate boots
+**Personality:** Showy, vain, conflict-avoidant under pressure
+**Motivation:** Keep blood off the floor and coin on the tables
+**Secret:** Afraid of mirrors; will throw a flourish for the right price
