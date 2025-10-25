@@ -64,3 +64,4 @@ env/
 # Mac
 .AppleDouble
 .LSOverride
+.env
