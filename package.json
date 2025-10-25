@@ -4,7 +4,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "handouts:images": "node campaigns/shadows-of-the-southwest/handouts/generate_handout_images.mjs"
+    "handouts:images": "node campaigns/shadows-of-the-southwest/handouts/generate_handout_images.mjs",
+    "handouts:npcs": "node campaigns/shadows-of-the-southwest/handouts/npcs/generate_npc_images.mjs"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
