@@ -90,15 +90,6 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 - Features: Lockbox with pre-signed letters of passage; a Morr token in a velvet pouch.
 - Secrets: One candle is labeled “Satanreux — Third Death.” It refuses to stay extinguished.
 
-3) Reikland/Border — Brücke-Watch Waystation
-- History: Built where an old mirror-stone once stood; customs expanded around it; a shrine to the Lady faces a small, neglected stone of Morr.
-- Atmosphere: Incense smoke; the sound of falcons; ledger scratching; pilgrims queued for purity tests.
-- Features: Reliquary with tiny mirrors for “reflection of true self”; stamped wax for visas; holding room draped in blue.
-- Secrets & Clues:
-	- The official mirror shows a delayed blink to anyone tied to the Satanreux curse.
-	- A confiscated coin keeps landing heads at the stroke of each hour.
-	- A guard’s livery smells faintly of lilies and grave-mud.
-
 4) The Hollow Way (Optional Shortcut)
 - History: Old funeral path; tree canopies knit overhead; ravens perch in precise intervals.
 - Effect: Cuts half a day but invites omens and reflection anomalies; low-level corruption checks on failed Willpower.
@@ -123,7 +114,7 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 
 3) The Street Whisper (Quick Hook)
 - A raven drops an invitation scrap: “Celebrate Robert’s third death.” Address smudged with wine.
-- Leads to either the Apothecary or Brücke-Watch depending on player choice.
+- Leads to either the Apothecary or Brücke-Watch (see Session 03) depending on player choice.
 
 ---
 
@@ -165,7 +156,7 @@ Use FTG target modifiers as guidance: Very Easy (+60), Easy (+40), Average (+0),
 
 - Coin Motif → Nuln den at midnight (Artois).
 - Perfume Motif → Stir dock orders (Eléonore’s barge).
-- Mirror Motif → Brücke-Watch tests and delayed reflections (Château Malchance).
+- Mirror Motif → Brücke-Watch tests and delayed reflections (Session 03; Château Malchance).
 - Raven/“Not yet” Motif → Robert’s continued influence; Orc pilgrims seeking signs.
 
 ---

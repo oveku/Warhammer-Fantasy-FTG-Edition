@@ -94,6 +94,20 @@ Outcome of Debate:
 
 ---
 
+## Optional Location — Brücke-Watch Waystation (Border)
+
+- History: Built where an old mirror-stone once stood; customs expanded around it; a shrine to the Lady faces a small, neglected stone of Morr.
+- Atmosphere: Incense smoke; the sound of falcons; ledger scratching; pilgrims queued for purity tests.
+- Features: Reliquary with tiny mirrors for “reflection of true self”; stamped wax for visas; holding room draped in blue.
+- Secrets & Clues:
+	- The official mirror shows a delayed blink to anyone tied to the Satanreux curse.
+	- A confiscated coin keeps landing heads at the stroke of each hour.
+	- A guard’s livery smells faintly of lilies and grave-mud.
+
+Use this site if the party is routed back through formal customs during Session 03 (or if they return to confront the Traditionalists). It pairs naturally with Social Combat (Doctrine vs. Rite) and with mirror/coin motifs discovered on the barge.
+
+---
+
 ## Confrontation Paths (choose 1–2)
 
 1) Interrupt the Rite (Risky)
