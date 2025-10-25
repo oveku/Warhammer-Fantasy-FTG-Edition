@@ -17,7 +17,8 @@ const __dirname = path.dirname(__filename);
 // npcs -> handouts -> shadows-of-the-southwest -> campaigns -> (repo root)
 const ROOT = path.resolve(__dirname, '../../../..');
 const HTML_FILE = path.resolve(__dirname, 'persons.html');
-const OUT_DIR = path.resolve(__dirname, '../images');
+// Save NPC portraits into this npcs/ directory
+const OUT_DIR = path.resolve(__dirname);
 
 // First try loading from current working directory (npm runs from repo root),
 // then explicitly from computed ROOT as a fallback.
