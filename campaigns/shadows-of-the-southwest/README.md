@@ -22,6 +22,7 @@ A Warhammer Fantasy FTG Edition campaign that begins in the Empire and draws the
 - session-04.md — Château Malchance (Margot in Parravon)
 		- Focus: Cross Parravon Gate; perfumed bog approach; practice waltz vs. mirror duel vs. chapel rite to resolve the Dowager
 - session-05.md — The Dowager’s Waltz Requiem (Grand Ball)
+- session-05-mirror-duel.md — Alternate finale focused on the Mirror Duel spine
 - encounters.md — The Green Pilgrimage and more optional scenes
 
 ## Campaign Premise
@@ -38,3 +39,26 @@ A patron in the Empire requests the heroes travel to Bretonnia (Parravon) to inv
 - Travel: Use encounters that test grit, luck, and reputation across borders
 
 Happy haunting. May luck favor the damned.
+
+---
+
+## Handouts & NPC Portraits (Windows)
+
+From the project root, you can generate images with the provided scripts:
+
+```powershell
+# Ensure .env contains OPENAI_API_KEY
+npm install
+
+# Handout images (maps, cards, invitations)
+npm run handouts:images
+# outputs to campaigns/shadows-of-the-southwest/handouts/images/*.png
+
+# NPC portraits
+npm run handouts:npcs
+# outputs to campaigns/shadows-of-the-southwest/handouts/npcs/npc_*.png
+```
+
+Inputs:
+- Handouts prompts: `campaigns/shadows-of-the-southwest/handouts/handouts_prompts.html`
+- NPC prompt pack: `campaigns/shadows-of-the-southwest/handouts/npcs/persons.html`

@@ -16,6 +16,7 @@ Welcome to the **Warhammer Fantasy FTG Edition** project! This is a custom Warha
 6. [Step 4: Open the Project in VSCode](#step-4-open-the-project-in-vscode)
 7. [Step 5: Set Up ChatGPT AI Agent (Free)](#step-5-set-up-chatgpt-ai-agent-free)
 8. [Project Structure](#project-structure)
+9. [Environment and Generators (Windows)](#environment-and-generators-windows)
 9. [How to Contribute](#how-to-contribute)
 10. [Support](#support)
 
@@ -276,7 +277,48 @@ Warhammer-Fantasy-FTG-Edition/
 
 ---
 
-## 🤝 How to Contribute
+## � Environment and Generators (Windows)
+
+Use this to generate visual handouts and NPC portraits.
+
+1) Create your .env
+
+```powershell
+Copy-Item -Path .env.example -Destination .env
+# Open .env and set:
+# OPENAI_API_KEY=sk-...
+```
+
+2) Install dependencies
+
+```powershell
+npm install
+```
+
+3) Generate handout images (maps, cards, invitations)
+
+```powershell
+npm run handouts:images
+# Input:  campaigns/shadows-of-the-southwest/handouts/handouts_prompts.html
+# Output: campaigns/shadows-of-the-southwest/handouts/images/*.png
+```
+
+4) Generate NPC portraits
+
+```powershell
+npm run handouts:npcs
+# Input:  campaigns/shadows-of-the-southwest/handouts/npcs/persons.html
+# Output: campaigns/shadows-of-the-southwest/handouts/npcs/npc_*.png
+```
+
+Notes:
+- Requires a valid OpenAI API key in .env.
+- Image generation may incur API costs.
+- All scripts run from the project root in PowerShell.
+
+---
+
+## �🤝 How to Contribute
 
 Want to add content or fix something? Here's how:
 
@@ -287,13 +329,13 @@ Edit files directly in VSCode. Save with `Ctrl+S`.
 ### 2. Stage Your Changes
 
 Open the terminal in VSCode (`` Ctrl+` ``) and run:
-```bash
+```powershell
 git add .
 ```
 
 ### 3. Commit Your Changes
 
-```bash
+```powershell
 git commit -m "Brief description of what you changed"
 ```
 
@@ -304,7 +346,7 @@ Examples:
 
 ### 4. Push to GitHub
 
-```bash
+```powershell
 git push origin main
 ```
 
@@ -313,7 +355,7 @@ git push origin main
 ### 5. Pull Latest Changes
 
 Before you start working, always get the latest version:
-```bash
+```powershell
 git pull origin main
 ```
 
