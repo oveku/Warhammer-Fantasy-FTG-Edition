@@ -1,5 +1,7 @@
 # Warhammer Fantasy FTG Edition
 
+Official repository: https://github.com/oveku/Warhammer-Fantasy-FTG-Edition
+
 Welcome to the **Warhammer Fantasy FTG Edition** project! This is a custom Warhammer Fantasy Roleplay ruleset with extensive house rules and campaign materials designed for an immersive tabletop RPG experience.
 
 ---
@@ -34,7 +36,7 @@ The "FTG Edition" refers to our custom modifications that balance gameplay and e
 ## ✅ Prerequisites
 
 Before you begin, you'll need:
-- A computer running Windows, macOS, or Linux
+- A Windows PC
 - Internet connection
 - A GitHub account (free) - [Sign up here](https://github.com/signup)
 - A ChatGPT account (free) - [Sign up here](https://chat.openai.com/)
@@ -52,20 +54,8 @@ Git is a version control system that lets you download and manage code from GitH
 4. Click "Next" through all prompts, then "Install"
 5. Click "Finish" when complete
 
-### macOS
-1. Open **Terminal** (find it in Applications > Utilities)
-2. Type: `git --version` and press Enter
-3. If Git isn't installed, macOS will prompt you to install it
-4. Alternatively, download from [git-scm.com](https://git-scm.com/download/mac)
-
-### Linux
-1. Open your terminal
-2. For Ubuntu/Debian: `sudo apt-get install git`
-3. For Fedora: `sudo dnf install git`
-4. For Arch: `sudo pacman -S git`
-
 ### Verify Installation
-1. Open your terminal (Command Prompt on Windows, Terminal on Mac/Linux)
+1. Open Windows PowerShell or Command Prompt
 2. Type: `git --version`
 3. You should see something like `git version 2.x.x`
 
@@ -80,22 +70,18 @@ Git is a version control system that lets you download and manage code from GitH
 1. **Open your terminal/command prompt**
 
 2. **Navigate to where you want the project**
-   ```bash
+   ```powershell
    # Windows (PowerShell or Command Prompt)
    cd C:\Users\YourUsername\Documents
-   
-   # macOS/Linux
-   cd ~/Documents
    ```
 
 3. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Warhammer-Fantasy-FTG-Edition.git
+   ```powershell
+   git clone https://github.com/oveku/Warhammer-Fantasy-FTG-Edition.git
    ```
-   *(Replace `YOUR_USERNAME` with the actual GitHub username)*
 
 4. **Navigate into the project folder**
-   ```bash
+   ```powershell
    cd Warhammer-Fantasy-FTG-Edition
    ```
 
@@ -152,7 +138,7 @@ Once VSCode is open, enhance your experience with these extensions:
 2. Click **"File"** → **"Open Folder..."**
 3. Navigate to where you cloned/extracted the project
 4. Select the **"Warhammer-Fantasy-FTG-Edition"** folder
-5. Click **"Select Folder"** (or "Open" on macOS)
+5. Click **"Select Folder"**
 
 ### Getting Familiar with VSCode
 
