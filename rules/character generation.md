@@ -1,34 +1,34 @@
 # Character Generation (FTG Edition)
 
-Denne filen beskriver hvordan man lager en karakter i Warhammer Fantasy FTG Edition.
+This file describes how to create a character in Warhammer Fantasy FTG Edition.
 
-## 1. Velg Konsept
-- Tenk ut en bakgrunn, motivasjon og rolle i gruppen.
+## 1. Choose a Concept
+- Think of a background, motivation, and your role in the group.
 
-## 2. Fordel Attributter
-- Start med FTG-baseline: +5 til +10 på alle stats over standard WFRP.
-- Fordel poeng etter ønsket fokus (se AI_CONTEXT.md for detaljer).
+## 2. Assign Attributes
+- Start with the FTG baseline: +5 to +10 on all stats above standard WFRP.
+- Distribute points according to your desired focus (see AI_CONTEXT.md for details).
 
-## 3. Velg Karriere og Talenter
-- Velg en startkarriere (Tier 2 nivå).
-- Multiclass: Velg ett talent fra en tilstøtende karriere.
+## 3. Choose Career and Talents
+- Select a starting career (Tier 2 level).
+- Multiclass: Choose one talent from an adjacent career.
 
-## 4. Ferdigheter
-- Fordel ferdighetspoeng etter karriere og bakgrunn.
-- Husk: Overlevelse, kamp, sosiale ferdigheter, magi (om aktuelt).
+## 4. Skills
+- Distribute skill points based on career and background.
+- Remember: Survival, combat, social skills, magic (if applicable).
 
-## 5. Fate, Resilience og Grit
+## 5. Fate, Resilience, and Grit
 - Fate: 1
 - Resilience: 1
-- Grit: 3-4 (avhengig av bakgrunn)
+- Grit: 3-4 (depending on background)
 
-## 6. Utrustning
-- Startutstyr tilpasset karriere og region.
+## 6. Equipment
+- Starting gear tailored to career and region.
 
-## 7. Særtrekk og Hemmeligheter
-- Velg eller rull én personlig hemmelighet eller særtrekk.
+## 7. Traits and Secrets
+- Choose or roll one personal secret or trait.
 
-## 8. Avsluttende detaljer
-- Navn, utseende, relasjoner, mål.
+## 8. Final Details
+- Name, appearance, relationships, goals.
 
-Se AI_CONTEXT.md for eksempler og mer detaljerte husregler.
+See AI_CONTEXT.md for examples and more detailed house rules.
