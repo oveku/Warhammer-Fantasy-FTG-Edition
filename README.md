@@ -223,34 +223,55 @@ ChatGPT Plus allows file uploads:
 ```
 Warhammer-Fantasy-FTG-Edition/
 │
-├── README.md                 # This file! Start here
-├── AI_CONTEXT.md            # Context file for AI agents (ChatGPT)
-├── .gitignore               # Files to exclude from version control
+├── README.md                       # This file
+├── AI_CONTEXT.md                   # Context for AI assistants
+├── .gitignore
+├── .env.example                    # Template for OPENAI_API_KEY
+├── .env                            # Your local secrets (not committed)
+├── package.json                    # NPM scripts and deps
+├── package-lock.json
 │
-├── rules/                   # House rules and mechanics
-│   ├── core-rules.md
-│   ├── combat-system.md
-│   ├── magic-system.md
-│   └── character-creation.md
+├── campaigns/
+│   ├── README.md
+│   └── shadows-of-the-southwest/   # Primary campaign
+│       ├── README.md
+│       ├── outline.md
+│       ├── background.md
+│       ├── hooks.md
+│       ├── encounters.md
+│       ├── locations.md
+│       ├── npcs.md
+│       ├── session-01.md
+│       ├── session-02.md
+│       ├── session-03.md
+│       ├── session-04.md
+│       ├── session-05.md
+│       ├── session-05-mirror-duel.md   # Alternate S05 focused on the Mirror Duel
+│       ├── Eau De Morr.png
+│       └── handouts/
+│           ├── handouts_prompts.html     # Prompt pack for image generation
+│           ├── Handouts_Prompts.pdf      # Printable prompt overview (optional)
+│           ├── generate_handout_images.mjs
+│           ├── s01_apothecary_invoice.png
+│           ├── images/                    # Generated handout images
+│           │   ├── s01_*.png
+│           │   ├── s02_*.png
+│           │   ├── s03_*.png
+│           │   ├── s04_*.png
+│           │   └── s05_*.png
+│           └── npcs/                      # NPC portraits and generator
+│               ├── persons.html
+│               ├── generate_npc_images.mjs
+│               └── npc_*.png
 │
-├── campaigns/               # Campaign materials
-│   ├── main-campaign/
-│   ├── side-quests/
-│   └── one-shots/
-│
-├── characters/              # Character sheets and NPCs
-│   ├── player-characters/
-│   └── npcs/
-│
-├── world/                   # World-building and lore
-│   ├── locations/
-│   ├── factions/
-│   └── history/
-│
-└── resources/               # Reference materials
-    ├── tables/
-    ├── handouts/
-    └── maps/
+├── characters/
+│   └── README.md
+├── rules/
+│   └── README.md
+├── world/
+│   └── README.md
+└── resources/
+   └── README.md
 ```
 
 ---
